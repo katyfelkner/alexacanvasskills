@@ -146,6 +146,7 @@ def canvas_skill(type=None, time=None):
         for h in hw:
             msg += make_msg(h)
 
+    msg += " Good luck studying!"
     return msg
 
 # JSON formatting helpers. Also lifted from AWS tutorials
@@ -157,8 +158,8 @@ def build_speechlet_response(title, output, reprompt_text, should_end_session):
         },
         'card': {
             'type': 'Simple',
-            'title': "SessionSpeechlet - " + title,
-            'content': "SessionSpeechlet - " + output
+            'title': "Upcoming",
+            'content': output
         },
         'reprompt': {
             'outputSpeech': {
