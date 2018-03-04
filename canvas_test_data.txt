@@ -1,0 +1,1980 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALDESC:Calendar events for the user\, Virginia Felkner
+X-WR-CALNAME:Virginia Felkner Calendar (Canvas)
+CALSCALE:GREGORIAN
+PRODID:iCalendar-Ruby
+BEGIN:VEVENT
+DESCRIPTION:[MATH 4753 Laboratory 3-1.docx](https://canvas.ou.edu/courses/4
+ 4991/files/9145588/download?wrap=1)\n\n[lab3.R](https://canvas.ou.edu/cours
+ es/44991/files/8398105/download?wrap=1)\n\n[ggplot2-cheatsheet-2.1.pdf](htt
+ ps://canvas.ou.edu/courses/44991/files/9145624/download?wrap=1)\n\n[SPRUCE.
+ csv](https://canvas.ou.edu/courses/44991/files/9176173/download?wrap=1)\n\n
+ Remember the rubric will likely be changed for this lab and all others - to
+  get full credit -- make sure you do all tasks as required.\n\n #Using a ne
+ w package\n#Download and install ggplot2\nlibrary(ggplot2)\ng=ggplot(fin.df
+ \, aes(x=RATIO\,y=HEAT\,colour=RATIO))\ng=g+geom_point() + geom_line()+ geo
+ m_smooth(method="lm")\ng+ggtitle("HEAT Vs RATIO")\n\n 
+DTEND:20180202T190000Z
+DTSTAMP:20180209T031900Z
+DTSTART:20180202T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab3 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627428
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_627428
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="MATH 4753 Laboratory 3-1.docx" href="https://canvas.ou.edu/courses
+ /44991/files/9145588/download?wrap=1" data-api-returntype="File" data-api-e
+ ndpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9145588">MATH 475
+ 3 Laboratory 3-1.docx</a></p>\n<p><a class=" instructure_file_link" title="
+ lab3.R" href="https://canvas.ou.edu/courses/44991/files/8398105/download?wr
+ ap=1" target="" data-api-returntype="File" data-api-endpoint="https://canva
+ s.ou.edu/api/v1/courses/44991/files/8398105">lab3.R</a></p>\n<p><a class="i
+ nstructure_file_link instructure_scribd_file" title="ggplot2-cheatsheet-2.1
+ .pdf" href="https://canvas.ou.edu/courses/44991/files/9145624/download?wrap
+ =1" data-api-returntype="File" data-api-endpoint="https://canvas.ou.edu/api
+ /v1/courses/44991/files/9145624">ggplot2-cheatsheet-2.1.pdf</a></p>\n<p><a
+ class="instructure_file_link instructure_scribd_file" title="SPRUCE.csv" hr
+ ef="https://canvas.ou.edu/courses/44991/files/9176173/download?wrap=1" data
+ -api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9176173" da
+ ta-api-returntype="File">SPRUCE.csv</a></p>\n<p>Remember the rubric will li
+ kely be changed for this lab and all others - to get full credit -- make su
+ re you do all tasks as required.</p>\n<p> #Using a new package<br>#Download
+  and install ggplot2<br>library(ggplot2)<br>g=ggplot(fin.df\, aes(x=RATIO\,
+ y=HEAT\,colour=RATIO))<br>g=g+geom_point() + geom_line()+ geom_smooth(metho
+ d="lm")<br>g+ggtitle("HEAT Vs RATIO")</p>\n<p> </p><script src="https://ins
+ tructure-uploads.s3.amazonaws.com/account_88080000000000001/attachments/136
+ 8591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=
+ 1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-ca
+ che-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response
+ -expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180204
+DTSTAMP:20180128T190600Z
+DTSTART;VALUE=DATE:20180204
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz #2 [LAT-3313-001]
+UID:event-assignment-675710
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_675710
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180205
+DTSTAMP:20180205T163900Z
+DTSTART;VALUE=DATE:20180205
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 7: Use of Tenses [LAT-3313-001]
+UID:event-assignment-680299
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_680299
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20180207T020000Z
+DTSTAMP:20171215T175400Z
+DTSTART:20180207T000000Z
+CLASS:PUBLIC
+LOCATION:REPF 200\,
+SEQUENCE:0
+SUMMARY:HLA February Meeting [HLA]
+UID:event-calendar-event-114286
+URL:http://canvas.ou.edu/calendar?include_contexts=course_54503&month=02&ye
+ ar=2018#calendar_event_114286
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[HW-1.pdf](https://canvas.ou.edu/courses/59183/files/9188005/do
+ wnload?wrap=1)
+DTEND:20180207T210000Z
+DTSTAMP:20180216T025700Z
+DTSTART:20180207T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:HW 1 [C S-2614-001]
+UID:event-assignment-678166
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=02&ye
+ ar=2018#assignment_678166
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="HW-1.pdf" href="https://canvas.ou.edu/courses/59183/files/9188005/
+ download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/59
+ 183/files/9188005" data-api-returntype="File">HW-1.pdf</a></p><script src="
+ https://instructure-uploads.s3.amazonaws.com/account_88080000000000001/atta
+ chments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&am
+ p\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;
+ response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&am
+ p\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Lab2.pdf](https://canvas.ou.edu/courses/59183/files/9189026/do
+ wnload?wrap=1)
+DTEND:20180207T210000Z
+DTSTAMP:20180131T185400Z
+DTSTART:20180207T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab - 2 [C S-2614-001]
+UID:event-assignment-678257
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=02&ye
+ ar=2018#assignment_678257
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="Lab2.pdf" href="https://canvas.ou.edu/courses/59183/files/9189026/
+ download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/59
+ 183/files/9189026" data-api-returntype="File">Lab2.pdf</a></p><script src="
+ https://instructure-uploads.s3.amazonaws.com/account_88080000000000001/atta
+ chments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&am
+ p\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;
+ response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&am
+ p\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Posted[Project1.pdf](https://canvas.ou.edu/courses/46200/files/
+ 8997310/download?wrap=1)
+DTEND;VALUE=DATE:20180207
+DTSTAMP:20180228T172700Z
+DTSTART;VALUE=DATE:20180207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project 1 [C S-2413-001]
+UID:event-assignment-671980
+URL:http://canvas.ou.edu/calendar?include_contexts=course_46200&month=02&ye
+ ar=2018#assignment_671980
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>Posted<a class="instructure_file_link instructure_scrib
+ d_file" title="Project1.pdf" href="https://canvas.ou.edu/courses/46200/file
+ s/8997310/download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/
+ courses/46200/files/8997310" data-api-returntype="File">Project1.pdf</a></p
+ ><script src="https://instructure-uploads.s3.amazonaws.com/account_88080000
+ 000000001/attachments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFX
+ H2V2O7RPCAA&amp\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd
+ 3KKos%3D&amp\;response-cache-control=Cache-Control%3Amax-age%3D473364000.0%
+ 2C%20public&amp\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180207
+DTSTAMP:20180207T163300Z
+DTSTART;VALUE=DATE:20180207
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 8: Pronouns [LAT-3313-001]
+UID:event-assignment-681342
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_681342
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This is Assignment 1 -- you are expected to do all working your
+ self.\n\nMany questions come from the text book and hence answers can be fo
+ und on the net -- these answers should not be sought -- your job is to lear
+ n and the assignments are a very important tool in your learning process. O
+ riginal thought is how you will learn.\n\n[GOBI-Problem.html](https://canva
+ s.ou.edu/courses/44991/files/9325977/download?wrap=1)\n\n [Ass1Questions-SP
+ RING-2018-4753.pdf](https://canvas.ou.edu/courses/44991/files/8861928/downl
+ oad?wrap=1)\n\n[pareto.r](https://canvas.ou.edu/courses/44991/files/8398100
+ /download?wrap=1)\n\n[tabulation-assignment1.png](https://canvas.ou.edu/cou
+ rses/44991/files/8398107/download?wrap=1)\n\n[3-2.jpeg](https://canvas.ou.e
+ du/courses/44991/files/8398110/download?wrap=1)\n\nincidents=c(27\,24\,22\,
+ 10)\nMS=c("ED"\,"PP"\,"MO"\,"TC")\nCause=rep(MS\,incidents)\nCause\npareto<
+ -function(x\,mn="Pareto barplot"\,...){ # x is a vector\nx.tab=table(x)\nxx
+ .tab=sort(x.tab\, decreasing=TRUE\,index.return=FALSE)\ncumsum(as.vector(xx
+ .tab))->cs\nlength(x.tab)->lenx\nbp<-barplot(xx.tab\,ylim=c(0\,max(cs))\,la
+ s=2)\nlb<-seq(0\,cs[lenx]\,l=11)\naxis(side=4\,at=lb\,labels=paste(seq(0\,1
+ 00\,length=11)\,"%"\,sep="")\,las=1\,line=-1\,col="Blue"\,col.axis="Red")\n
+ for(i in 1:(lenx-1)){\nsegments(bp[i]\,cs[i]\,bp[i+1]\,cs[i+1]\,col=i\,lwd=
+ 2)\n}\ntitle(main=mn\,...)\n}\nwindows()\npareto(Cause)\n\n# Qu 14 SHIPSANI
+ T  Further investigation \n#This will be a different path if in the lab or
+ at home\ndird="\\Users\\HyDRO-Lab\\Google Drive\\MATH4753\\DATAxls\\"\n\n#m
+ y function to read data\nmyread=function(csv){\nfl=paste(dird\,csv\,sep="")
+ \nread.table(fl\,header=TRUE\,sep="\,")\n}\nship.df=myread("SHIPSANIT.csv")
+ \nhead( ship.df)\nr=ship.df$R\nboxplot(r\,horizontal=TRUE)\nzouts=r[abs(sca
+ le(r))>3]\niqr=IQR(r)\nlq=quantile(r\,0.25)\nlq\nIf=lq-1.5*iqr\nIf\nlf=lq-3
+ *iqr\nlf\nr[r<=lf]\nabline(v=c(If\,lf)\,lwd=3\,col="Red")\nabline(v=zouts\,
+ col="Blue")\nunique(zouts)
+DTEND:20180209T190000Z
+DTSTAMP:20180301T154900Z
+DTSTART:20180209T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:ASS1 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627410
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_627410
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>This is Assignment 1 -- you are expected to do all work
+ ing yourself.</p>\n<p>Many questions come from the text book and hence answ
+ ers can be found on the net -- these answers should not be sought -- your j
+ ob is to learn and the assignments are a very important tool in your learni
+ ng process. Original thought is how you will learn.</p>\n<p><a class="instr
+ ucture_file_link" title="GOBI-Problem.html" href="https://canvas.ou.edu/cou
+ rses/44991/files/9325977/download?wrap=1" data-api-endpoint="https://canvas
+ .ou.edu/api/v1/courses/44991/files/9325977" data-api-returntype="File">GOBI
+ -Problem.html</a></p>\n<p> <a class="instructure_file_link instructure_scri
+ bd_file" title="Ass1Questions-SPRING-2018-4753.pdf" href="https://canvas.ou
+ .edu/courses/44991/files/8861928/download?wrap=1" data-api-endpoint="https:
+ //canvas.ou.edu/api/v1/courses/44991/files/8861928" data-api-returntype="Fi
+ le">Ass1Questions-SPRING-2018-4753.pdf</a></p>\n<p><a class=" instructure_f
+ ile_link" title="pareto.r" href="https://canvas.ou.edu/courses/44991/files/
+ 8398100/download?wrap=1" target="" data-api-returntype="File" data-api-endp
+ oint="https://canvas.ou.edu/api/v1/courses/44991/files/8398100">pareto.r</a
+ ></p>\n<p><a class=" instructure_image_thumbnail instructure_file_link" tit
+ le="tabulation-assignment1.png" href="https://canvas.ou.edu/courses/44991/f
+ iles/8398107/download?wrap=1" target="" data-api-returntype="File" data-api
+ -endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/8398107">tabula
+ tion-assignment1.png</a></p>\n<p><a class=" instructure_image_thumbnail ins
+ tructure_file_link" title="3-2.jpeg" href="https://canvas.ou.edu/courses/44
+ 991/files/8398110/download?wrap=1" target="" data-api-returntype="File" dat
+ a-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/8398110">3
+ -2.jpeg</a></p>\n<pre><strong>incidents=c(27\,24\,22\,10)\nMS=c("ED"\,"PP"\
+ ,"MO"\,"TC")\nCause=rep(MS\,incidents)\nCause\npareto&lt\;-function(x\,mn="
+ Pareto barplot"\,...){  # x is a vector\nx.tab=table(x)\nxx.tab=sort(x.tab\
+ , decreasing=TRUE\,index.return=FALSE)\ncumsum(as.vector(xx.tab))-&gt\;cs\n
+ length(x.tab)-&gt\;lenx\nbp&lt\;-barplot(xx.tab\,ylim=c(0\,max(cs))\,las=2)
+ \nlb&lt\;-seq(0\,cs[lenx]\,l=11)\naxis(side=4\,at=lb\,labels=paste(seq(0\,1
+ 00\,length=11)\,"%"\,sep="")\,las=1\,line=-1\,col="Blue"\,col.axis="Red")\n
+ for(i in 1:(lenx-1)){\nsegments(bp[i]\,cs[i]\,bp[i+1]\,cs[i+1]\,col=i\,lwd=
+ 2)\n}\ntitle(main=mn\,...)\n}\nwindows()\npareto(Cause)<br><br></strong></p
+ re>\n<p># Qu 14 SHIPSANIT  Further investigation <br>#This will be a differ
+ ent path if in the lab or at home<br>dird="\\Users\\HyDRO-Lab\\Google Drive
+ \\MATH4753\\DATAxls\\"</p>\n<p>#my function to read data <br>myread=functio
+ n(csv){<br>fl=paste(dird\,csv\,sep="")<br>read.table(fl\,header=TRUE\,sep="
+ \,")<br>} <br>ship.df=myread("SHIPSANIT.csv")<br>head( ship.df)<br>r=ship.d
+ f$R<br>boxplot(r\,horizontal=TRUE)<br>zouts=r[abs(scale(r))&gt\;3]<br>iqr=I
+ QR(r)<br>lq=quantile(r\,0.25)<br>lq<br>If=lq-1.5*iqr<br>If<br>lf=lq-3*iqr<b
+ r>lf<br>r[r&lt\;=lf]<br>abline(v=c(If\,lf)\,lwd=3\,col="Red")<br>abline(v=z
+ outs\,col="Blue")<br>unique(zouts)</p>\n<pre><strong><br><br></strong></pre
+ ><script src="https://instructure-uploads.s3.amazonaws.com/account_88080000
+ 000000001/attachments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFX
+ H2V2O7RPCAA&amp\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd
+ 3KKos%3D&amp\;response-cache-control=Cache-Control%3Amax-age%3D473364000.0%
+ 2C%20public&amp\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180211
+DTSTAMP:20180211T171600Z
+DTSTART;VALUE=DATE:20180211
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz #3 [LAT-3313-001]
+UID:event-assignment-680058
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_680058
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This quiz covers chapter 2 of MS. There are learning objectives
+  that will be examined. If you acquire mastery you will receive full points
+ . Read Chapter 2 in preparation for this quiz.[statsbook.jpg](https://canva
+ s.ou.edu/courses/44991/files/8398165/preview)
+DTEND:20180212T190000Z
+DTSTAMP:20180205T013600Z
+DTSTART:20180212T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 2 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627402
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_627402
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span>This quiz covers chapter 2 of MS. There are learn
+ ing objectives that will be examined. If you acquire mastery you will recei
+ ve full points. Read Chapter 2 in preparation for this quiz.</span><img sty
+ le="display: block\; margin-left: auto\; margin-right: auto\;" src="https:/
+ /canvas.ou.edu/courses/44991/files/8398165/preview" alt="statsbook.jpg" wid
+ th="147" height="187" data-api-endpoint="https://canvas.ou.edu/api/v1/cours
+ es/44991/files/8398165" data-api-returntype="File"></p><script src="https:/
+ /instructure-uploads.s3.amazonaws.com/account_88080000000000001/attachments
+ /1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expi
+ res=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;respons
+ e-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;resp
+ onse-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[lab4.r](https://canvas.ou.edu/courses/44991/files/8398081/down
+ load?wrap=1)\n\n[MATH 4753 Laboratory 4.docx](https://canvas.ou.edu/courses
+ /44991/files/8398183/download?wrap=1)\n\nFiles useful to Project:\n\n[Rugby
+  Pressure!.pdf](https://canvas.ou.edu/courses/44991/files/8398118/download?
+ wrap=1)\n\n[](https://canvas.ou.edu/courses/44991/files/8398118/download?wr
+ ap=1)[regression (1).pdf](https://canvas.ou.edu/courses/44991/files/8398152
+ /download?wrap=1)\n\n> data = 15:24\n> predict20x(quad.lm\,data.frame(BHDia
+ meter = data\, `I(BhDiameter)^2`=data^2))\nPredicted Conf.lower Conf.upper
+ Pred.lower Pred.upper\n1 16.727 16.133 17.321 13.854 19.600\n2 17.345 16.77
+ 3 17.917 14.477 20.214\n3 17.909 17.348 18.469 15.042 20.775\n4 18.417 17.8
+ 62 18.972 15.552 21.283\n5 18.871 18.318 19.424 16.006 21.736\n6 19.270 18.
+ 712 19.827 16.404 22.136\n7 19.614 19.040 20.187 16.745 22.483\n8 19.903 19
+ .294 20.511 17.026 22.779\n9 20.137 19.464 20.809 17.246 23.027\n10 20.316
+ 19.546 21.085 17.401 23.230\n\n 
+DTEND:20180212T190000Z
+DTSTAMP:20180222T224900Z
+DTSTART:20180212T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab 4 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627429
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_627429
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a id="" class=" instructure_file_link" title="lab4.r"
+ href="https://canvas.ou.edu/courses/44991/files/8398081/download?wrap=1" ta
+ rget="" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files
+ /8398081" data-api-returntype="File">lab4.r</a></p>\n<p><a id="" class=" in
+ structure_scribd_file instructure_file_link" title="MATH 4753 Laboratory 4.
+ docx" href="https://canvas.ou.edu/courses/44991/files/8398183/download?wrap
+ =1" target="" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991
+ /files/8398183" data-api-returntype="File">MATH 4753 Laboratory 4.docx</a><
+ /p>\n<p>Files useful to Project:</p>\n<p><a id="" class=" instructure_scrib
+ d_file instructure_file_link" title="Rugby Pressure!.pdf" href="https://can
+ vas.ou.edu/courses/44991/files/8398118/download?wrap=1" target="" data-api-
+ endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/8398118" data-ap
+ i-returntype="File">Rugby Pressure!.pdf</a></p>\n<p><a id="" class=" instru
+ cture_scribd_file instructure_file_link" title="Rugby Pressure!.pdf" href="
+ https://canvas.ou.edu/courses/44991/files/8398118/download?wrap=1" target="
+ " data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/83981
+ 18" data-api-returntype="File"></a><a id="" class=" instructure_scribd_file
+  instructure_file_link" title="regression (1).pdf" href="https://canvas.ou.
+ edu/courses/44991/files/8398152/download?wrap=1" target="" data-api-endpoin
+ t="https://canvas.ou.edu/api/v1/courses/44991/files/8398152" data-api-retur
+ ntype="File">regression (1).pdf</a></p>\n<p>&gt\; data = 15:24<br>&gt\; pre
+ dict20x(quad.lm\,data.frame(BHDiameter = data\, `I(BhDiameter)^2`=data^2))<
+ br> Predicted Conf.lower Conf.upper Pred.lower Pred.upper<br>1 16.727 16.13
+ 3 17.321 13.854 19.600<br>2 17.345 16.773 17.917 14.477 20.214<br>3 17.909
+ 17.348 18.469 15.042 20.775<br>4 18.417 17.862 18.972 15.552 21.283<br>5 18
+ .871 18.318 19.424 16.006 21.736<br>6 19.270 18.712 19.827 16.404 22.136<br
+ >7 19.614 19.040 20.187 16.745 22.483<br>8 19.903 19.294 20.511 17.026 22.7
+ 79<br>9 20.137 19.464 20.809 17.246 23.027<br>10 20.316 19.546 21.085 17.40
+ 1 23.230</p>\n<p> </p><script src="https://instructure-uploads.s3.amazonaws
+ .com/account_88080000000000001/attachments/1368591/canvas_global_app.js?AWS
+ AccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Signature=BBb
+ TvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-Control%3Am
+ ax-age%3D473364000.0%2C%20public&amp\;response-expires=473364000.0"></scrip
+ t>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In class.
+DTEND:20180212T210000Z
+DTSTAMP:20180207T213600Z
+DTSTART:20180212T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 1 [C S-2614-001]
+UID:event-assignment-681595
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=02&ye
+ ar=2018#assignment_681595
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>In class.</p><script src="https://instructure-uploads.s
+ 3.amazonaws.com/account_88080000000000001/attachments/1368591/canvas_global
+ _app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Si
+ gnature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-
+ Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expires=473364000
+ .0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180212
+DTSTAMP:20180212T164600Z
+DTSTART;VALUE=DATE:20180212
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 9: Reported Statements [LAT-3313-001]
+UID:event-assignment-683163
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_683163
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Answer using Rmd and create an html file with contents.\n\n[kur
+ tosis.html](https://canvas.ou.edu/courses/44991/files/9338452/download?wrap
+ =1)\n\n[kurtosis.pdf](https://canvas.ou.edu/courses/44991/files/9338459/dow
+ nload?wrap=1)\n\n[kurtosis.Rmd](https://canvas.ou.edu/courses/44991/files/9
+ 338463/download?wrap=1)\n\n 
+DTEND:20180214T190000Z
+DTSTAMP:20180219T213600Z
+DTSTART:20180214T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MiniLab 1 [MATH-4753-001-002-spring-18]
+UID:event-assignment-682256
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_682256
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>Answer using Rmd and create an html file with contents.
+ </p>\n<p><a class="instructure_file_link instructure_scribd_file" title="ku
+ rtosis.html" href="https://canvas.ou.edu/courses/44991/files/9338452/downlo
+ ad?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/fi
+ les/9338452" data-api-returntype="File">kurtosis.html</a></p>\n<p><a class=
+ "instructure_file_link instructure_scribd_file" title="kurtosis.pdf" href="
+ https://canvas.ou.edu/courses/44991/files/9338459/download?wrap=1" data-api
+ -endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9338459" data-a
+ pi-returntype="File">kurtosis.pdf</a></p>\n<p><a class="instructure_file_li
+ nk instructure_scribd_file" title="kurtosis.Rmd" href="https://canvas.ou.ed
+ u/courses/44991/files/9338463/download?wrap=1" data-api-endpoint="https://c
+ anvas.ou.edu/api/v1/courses/44991/files/9338463" data-api-returntype="File"
+ >kurtosis.Rmd</a></p>\n<p> </p><script src="https://instructure-uploads.s3.
+ amazonaws.com/account_88080000000000001/attachments/1368591/canvas_global_a
+ pp.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Sign
+ ature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-Co
+ ntrol%3Amax-age%3D473364000.0%2C%20public&amp\;response-expires=473364000.0
+ "></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Lab3.pdf](https://canvas.ou.edu/courses/59183/files/9319289/do
+ wnload?wrap=1)
+DTEND:20180214T210000Z
+DTSTAMP:20180208T000100Z
+DTSTART:20180214T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab-3 [C S-2614-001]
+UID:event-assignment-681667
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=02&ye
+ ar=2018#assignment_681667
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="Lab3.pdf" href="https://canvas.ou.edu/courses/59183/files/9319289/
+ download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/59
+ 183/files/9319289" data-api-returntype="File">Lab3.pdf</a></p><script src="
+ https://instructure-uploads.s3.amazonaws.com/account_88080000000000001/atta
+ chments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&am
+ p\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;
+ response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&am
+ p\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180214
+DTSTAMP:20180214T172300Z
+DTSTART;VALUE=DATE:20180214
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 10: Questions [LAT-3313-001]
+UID:event-assignment-684337
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_684337
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[binom.png](https://canvas.ou.edu/courses/44991/files/8398153/p
+ review)\n\n[hypergeometric.png](https://canvas.ou.edu/courses/44991/files/8
+ 398154/preview)\n\n [neg-bin-1.png](https://canvas.ou.edu/courses/44991/fil
+ es/8398109/download?wrap=1)\n\n \n\n[lab5.R](https://canvas.ou.edu/courses/
+ 44991/files/8398097/download?wrap=1)\n\n[lab5-hypergeometric.R](https://can
+ vas.ou.edu/courses/44991/files/8398096/download?wrap=1)\n\n[neg-bin-lab5.R]
+ (https://canvas.ou.edu/courses/44991/files/8398155/download?wrap=1)\n\n[MAT
+ H 4753 Laboratory 5.docx](https://canvas.ou.edu/courses/44991/files/9357962
+ /download?wrap=1)\n\n[MATH 4753 Laboratory 5.pdf](https://canvas.ou.edu/cou
+ rses/44991/files/9357959/download?wrap=1)\n\n 
+DTEND:20180216T190000Z
+DTSTAMP:20180224T220800Z
+DTSTART:20180216T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab 5 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627430
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_627430
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><img src="https://canvas.ou.edu/courses/44991/files/839
+ 8153/preview" alt="binom.png" width="658" height="373" data-api-returntype=
+ "File" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/
+ 8398153"></p>\n<p><img src="https://canvas.ou.edu/courses/44991/files/83981
+ 54/preview" alt="hypergeometric.png" data-api-returntype="File" data-api-en
+ dpoint="https://canvas.ou.edu/api/v1/courses/44991/files/8398154"></p>\n<p>
+  <a class=" instructure_image_thumbnail instructure_file_link" title="neg-b
+ in-1.png" href="https://canvas.ou.edu/courses/44991/files/8398109/download?
+ wrap=1" target="" data-api-returntype="File" data-api-endpoint="https://can
+ vas.ou.edu/api/v1/courses/44991/files/8398109">neg-bin-1.png</a></p>\n<p> <
+ /p>\n<p><a class=" instructure_file_link" title="lab5.R" href="https://canv
+ as.ou.edu/courses/44991/files/8398097/download?wrap=1" target="" data-api-r
+ eturntype="File" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44
+ 991/files/8398097">lab5.R</a></p>\n<p><a class=" instructure_file_link" tit
+ le="lab5-hypergeometric.R" href="https://canvas.ou.edu/courses/44991/files/
+ 8398096/download?wrap=1" target="" data-api-returntype="File" data-api-endp
+ oint="https://canvas.ou.edu/api/v1/courses/44991/files/8398096">lab5-hyperg
+ eometric.R</a></p>\n<p><a class=" instructure_file_link" title="neg-bin-lab
+ 5.R" href="https://canvas.ou.edu/courses/44991/files/8398155/download?wrap=
+ 1" target="" data-api-returntype="File" data-api-endpoint="https://canvas.o
+ u.edu/api/v1/courses/44991/files/8398155">neg-bin-lab5.R</a></p>\n<p><a cla
+ ss=" instructure_scribd_file instructure_file_link" title="MATH 4753 Labora
+ tory 5.docx" href="https://canvas.ou.edu/courses/44991/files/9357962/downlo
+ ad?wrap=1" target="" data-api-returntype="File" data-api-endpoint="https://
+ canvas.ou.edu/api/v1/courses/44991/files/9357962">MATH 4753 Laboratory 5.do
+ cx</a></p>\n<p><a class=" instructure_scribd_file instructure_file_link" ti
+ tle="MATH 4753 Laboratory 5.pdf" href="https://canvas.ou.edu/courses/44991/
+ files/9357959/download?wrap=1" target="" data-api-returntype="File" data-ap
+ i-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9357959">MATH
+ 4753 Laboratory 5.pdf</a></p>\n<p> </p><script src="https://instructure-upl
+ oads.s3.amazonaws.com/account_88080000000000001/attachments/1368591/canvas_
+ global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&a
+ mp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=
+ Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expires=473
+ 364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180218
+DTSTAMP:20180211T192600Z
+DTSTART;VALUE=DATE:20180218
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz #4 [LAT-3313-001]
+UID:event-assignment-682889
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_682889
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This quiz covers chapter 3 of MS. There are learning objectives
+  that will be examined. If you acquire mastery you will receive full points
+ . Read Chapter 3 in preparation for this quiz.[statsbook.jpg](https://canva
+ s.ou.edu/courses/44991/files/8398165/preview)\n\nThe package "s20x" contain
+ s a data set called "course.df" which records students enrolment details. T
+ he following table was made with: with(course.df\, table(Degree\, Gender))\
+ n\nDegree\n\nFemale\n\nMale\n\nBA\n\n13\n\n4\n\nBCom\n\n30\n\n19\n\nBSc\n\n
+ 27\n\n37\n\nOther\n\n8\n\n8\n\nUsing this table answer the following questi
+ ons!
+DTEND:20180219T190000Z
+DTSTAMP:20180205T013600Z
+DTSTART:20180219T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 3 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627406
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_627406
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span>This quiz covers chapter 3 of MS. There are learn
+ ing objectives that will be examined. If you acquire mastery you will recei
+ ve full points. Read Chapter 3 in preparation for this quiz.</span><img sty
+ le="display: block\; margin-left: auto\; margin-right: auto\;" src="https:/
+ /canvas.ou.edu/courses/44991/files/8398165/preview" alt="statsbook.jpg" wid
+ th="147" height="187" data-api-endpoint="https://canvas.ou.edu/api/v1/cours
+ es/44991/files/8398165" data-api-returntype="File"></p>\n<p>The package "s2
+ 0x" contains a data set called "course.df" which records students enrolment
+  details. The following table was made with: <strong>with(course.df\, table
+ (Degree\, Gender))</strong></p>\n<table width="308">\n<tbody>\n<tr>\n<td><s
+ pan><strong>Degree</strong></span></td>\n<td><span><strong>Female</strong><
+ /span></td>\n<td><span><strong>Male</strong></span></td>\n</tr>\n<tr>\n<td>
+ <span><strong>BA</strong></span></td>\n<td><span><strong>13</strong></span>
+ </td>\n<td><span><strong>4</strong></span></td>\n</tr>\n<tr>\n<td><span><st
+ rong>BCom</strong></span></td>\n<td><span><strong>30</strong></span></td>\n
+ <td><span><strong>19</strong></span></td>\n</tr>\n<tr>\n<td><span><strong>B
+ Sc</strong></span></td>\n<td><span><strong>27</strong></span></td>\n<td><sp
+ an><strong>37</strong></span></td>\n</tr>\n<tr>\n<td><span><strong>Other</s
+ trong></span></td>\n<td><span><strong>8</strong></span></td>\n<td><span><st
+ rong>8</strong></span></td>\n</tr>\n</tbody>\n</table>\n<p>Using this table
+  answer the following questions!</p><script src="https://instructure-upload
+ s.s3.amazonaws.com/account_88080000000000001/attachments/1368591/canvas_glo
+ bal_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\
+ ;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cac
+ he-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expires=473364
+ 000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180219
+DTSTAMP:20180219T163500Z
+DTSTART;VALUE=DATE:20180219
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:CHapter 11: Commands [LAT-3313-001]
+UID:event-assignment-686056
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_686056
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:knit only html files for this lab\n\n[changeofvariable.Rmd](htt
+ ps://canvas.ou.edu/courses/44991/files/9433757/download?wrap=1)\n\n[changeo
+ fvariable.html](https://canvas.ou.edu/courses/44991/files/9433756/download?
+ wrap=1)\n\n 
+DTEND:20180221T190000Z
+DTSTAMP:20180227T020800Z
+DTSTART:20180221T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Minilab 2 [MATH-4753-001-002-spring-18]
+UID:event-assignment-685121
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_685121
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>knit only html files for this lab</p>\n<p><a class="ins
+ tructure_file_link instructure_scribd_file" title="changeofvariable.Rmd" hr
+ ef="https://canvas.ou.edu/courses/44991/files/9433757/download?wrap=1" data
+ -api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9433757" da
+ ta-api-returntype="File">changeofvariable.Rmd</a></p>\n<p><a class="instruc
+ ture_file_link instructure_scribd_file" title="changeofvariable.html" href=
+ "https://canvas.ou.edu/courses/44991/files/9433756/download?wrap=1" data-ap
+ i-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9433756" data-
+ api-returntype="File">changeofvariable.html</a></p>\n<p> </p><script src="h
+ ttps://instructure-uploads.s3.amazonaws.com/account_88080000000000001/attac
+ hments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp
+ \;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;r
+ esponse-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp
+ \;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Lab 4.pdf](https://canvas.ou.edu/courses/59183/files/9405385/d
+ ownload?wrap=1)
+DTEND:20180222T210000Z
+DTSTAMP:20180228T004200Z
+DTSTART:20180222T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab-4 [C S-2614-001]
+UID:event-assignment-684978
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=02&ye
+ ar=2018#assignment_684978
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="Lab 4.pdf" href="https://canvas.ou.edu/courses/59183/files/9405385
+ /download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/5
+ 9183/files/9405385" data-api-returntype="File">Lab 4.pdf</a></p><script src
+ ="https://instructure-uploads.s3.amazonaws.com/account_88080000000000001/at
+ tachments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&
+ amp\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp
+ \;response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&
+ amp\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This lab looks at continuous densities.\n\nYou can also learn a
+ bout mathematical annotation -- see the link below.\n\nAlso use ?plotmath\n
+ \nIf you need information about a density use ?dbeta for example.\n\nMake s
+ ure you use useful Y values to plot over -- for example Beta only has Y val
+ ues in the domain (0\,1).\n\n \n\n[Mathematical Annotation](http://vis.sups
+ tat.com/2013/04/mathematical-annotation-in-r/)\n\n[lab6.R](https://canvas.o
+ u.edu/courses/44991/files/8398072/download?wrap=1)\n\n[MATH 4753 Laboratory
+  6.docx](https://canvas.ou.edu/courses/44991/files/9439763/download?wrap=1)
+ \n\n[MATH 4753 Laboratory 6.pdf](https://canvas.ou.edu/courses/44991/files/
+ 9439762/download?wrap=1)
+DTEND:20180223T190000Z
+DTSTAMP:20180301T192800Z
+DTSTART:20180223T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab6 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627431
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_627431
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>This lab looks at continuous densities.</p>\n<p>You can
+  also learn about mathematical annotation -- see the link below.</p>\n<p>Al
+ so use ?plotmath</p>\n<p>If you need information about a density use ?dbeta
+  for example.</p>\n<p>Make sure you use useful Y values to plot over -- for
+  example Beta only has Y values in the domain (0\,1).</p>\n<p> </p>\n<p><a
+ id="" class="" title="" href="http://vis.supstat.com/2013/04/mathematical-a
+ nnotation-in-r/" target="">Mathematical Annotation</a></p>\n<p><a id="" cla
+ ss=" instructure_file_link" title="lab6.R" href="https://canvas.ou.edu/cour
+ ses/44991/files/8398072/download?wrap=1" target="" data-api-endpoint="https
+ ://canvas.ou.edu/api/v1/courses/44991/files/8398072" data-api-returntype="F
+ ile">lab6.R</a></p>\n<p><a id="" class=" instructure_scribd_file instructur
+ e_file_link" title="MATH 4753 Laboratory 6.docx" href="https://canvas.ou.ed
+ u/courses/44991/files/9439763/download?wrap=1" target="" data-api-endpoint=
+ "https://canvas.ou.edu/api/v1/courses/44991/files/9439763" data-api-returnt
+ ype="File">MATH 4753 Laboratory 6.docx</a></p>\n<p><a class="instructure_fi
+ le_link instructure_scribd_file" title="MATH 4753 Laboratory 6.pdf" href="h
+ ttps://canvas.ou.edu/courses/44991/files/9439762/download?wrap=1" data-api-
+ endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9439762" data-ap
+ i-returntype="File">MATH 4753 Laboratory 6.pdf</a></p><script src="https://
+ instructure-uploads.s3.amazonaws.com/account_88080000000000001/attachments/
+ 1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expir
+ es=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response
+ -cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;respo
+ nse-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180223
+DTSTAMP:20180225T170900Z
+DTSTART;VALUE=DATE:20180223
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 12: Verbs [LAT-3313-001]
+UID:event-assignment-687594
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_687594
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180225
+DTSTAMP:20180219T171800Z
+DTSTART;VALUE=DATE:20180225
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz #5 [LAT-3313-001]
+UID:event-assignment-686076
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_686076
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This quiz covers chapter 4 of MS. There are learning objectives
+  that will be examined. If you acquire mastery you will receive full points
+ . Read Chapter 4 in preparation for this quiz.[statsbook.jpg](https://canva
+ s.ou.edu/courses/44991/files/8398165/preview)
+DTEND:20180226T190000Z
+DTSTAMP:20180205T013600Z
+DTSTART:20180226T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 4 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627407
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_627407
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span>This quiz covers chapter 4 of MS. There are learn
+ ing objectives that will be examined. If you acquire mastery you will recei
+ ve full points. Read Chapter 4 in preparation for this quiz.</span><img sty
+ le="display: block\; margin-left: auto\; margin-right: auto\;" src="https:/
+ /canvas.ou.edu/courses/44991/files/8398165/preview" alt="statsbook.jpg" wid
+ th="147" height="187" data-api-endpoint="https://canvas.ou.edu/api/v1/cours
+ es/44991/files/8398165" data-api-returntype="File"></p><script src="https:/
+ /instructure-uploads.s3.amazonaws.com/account_88080000000000001/attachments
+ /1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expi
+ res=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;respons
+ e-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;resp
+ onse-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[HW-2.pdf](https://canvas.ou.edu/courses/59183/files/9412321/do
+ wnload?wrap=1)
+DTEND:20180226T210000Z
+DTSTAMP:20180220T002500Z
+DTSTART:20180226T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:HW 2 [C S-2614-001]
+UID:event-assignment-685175
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=02&ye
+ ar=2018#assignment_685175
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="HW-2.pdf" href="https://canvas.ou.edu/courses/59183/files/9412321/
+ download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/59
+ 183/files/9412321" data-api-returntype="File">HW-2.pdf</a></p><script src="
+ https://instructure-uploads.s3.amazonaws.com/account_88080000000000001/atta
+ chments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&am
+ p\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;
+ response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&am
+ p\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180226
+DTSTAMP:20180228T182600Z
+DTSTART;VALUE=DATE:20180226
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 1 [C S-2413-001]
+UID:event-assignment-688954
+URL:http://canvas.ou.edu/calendar?include_contexts=course_46200&month=02&ye
+ ar=2018#assignment_688954
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180226
+DTSTAMP:20180226T175000Z
+DTSTART;VALUE=DATE:20180226
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 13: Times clauses [LAT-3313-001]
+UID:event-assignment-688072
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_688072
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[cs2413sylSpring2018.pdf](https://canvas.ou.edu/courses/46200/f
+ iles/8723773/download?wrap=1): Project Description\n\n[LeadingCausesofDeath
+ csv.txt](https://canvas.ou.edu/courses/46200/files/9340475/download?wrap=1)
+ : Input File for Project 2
+DTEND;VALUE=DATE:20180226
+DTSTAMP:20180304T055900Z
+DTSTART;VALUE=DATE:20180226
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project 2 [C S-2413-001]
+UID:event-assignment-682401
+URL:http://canvas.ou.edu/calendar?include_contexts=course_46200&month=02&ye
+ ar=2018#assignment_682401
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="cs2413sylSpring2018.pdf" href="https://canvas.ou.edu/courses/46200
+ /files/8723773/download?wrap=1" data-api-endpoint="https://canvas.ou.edu/ap
+ i/v1/courses/46200/files/8723773" data-api-returntype="File">cs2413sylSprin
+ g2018.pdf</a>: Project Description</p>\n<p><a class="instructure_file_link 
+ instructure_scribd_file" title="LeadingCausesofDeathcsv.txt" href="https://
+ canvas.ou.edu/courses/46200/files/9340475/download?wrap=1" data-api-endpoin
+ t="https://canvas.ou.edu/api/v1/courses/46200/files/9340475" data-api-retur
+ ntype="File">LeadingCausesofDeathcsv.txt</a>: Input File for Project 2</p><
+ script src="https://instructure-uploads.s3.amazonaws.com/account_8808000000
+ 0000001/attachments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2
+ V2O7RPCAA&amp\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3K
+ Kos%3D&amp\;response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C
+ %20public&amp\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Ass2Questions-4753-SPRING-2018.pdf](https://canvas.ou.edu/cour
+ ses/44991/files/9349770/download?wrap=1)\n\n 
+DTEND:20180228T190000Z
+DTSTAMP:20180301T180900Z
+DTSTART:20180228T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:ASS2 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627411
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_627411
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="Ass2Questions-4753-SPRING-2018.pdf" href="https://canvas.ou.edu/co
+ urses/44991/files/9349770/download?wrap=1" data-api-endpoint="https://canva
+ s.ou.edu/api/v1/courses/44991/files/9349770" data-api-returntype="File">Ass
+ 2Questions-4753-SPRING-2018.pdf</a></p>\n<p> </p><script src="https://instr
+ ucture-uploads.s3.amazonaws.com/account_88080000000000001/attachments/13685
+ 91/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19
+ 45434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cach
+ e-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-e
+ xpires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Using my script below (make sure you install shiny)\n\nMake the
+  equivalent for a X~Beta(alpha\,beta) distribution to calculate P( a<X<b) \
+ n\nUpload a working Rmd file only -- I will run it -- if it works 100% othe
+ rwise 0!\n\n[Lab6.Rmd](https://canvas.ou.edu/courses/44991/files/9494594/do
+ wnload?wrap=1)\n\nMake sure the horizontal axis is taken up with a non zero
+  density.\n\nDon't do this - see below!! :\n\n[minilab3.jpg](https://canvas
+ .ou.edu/courses/44991/files/9502171/preview)
+DTEND:20180228T190000Z
+DTSTAMP:20180302T185100Z
+DTSTART:20180228T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:MiniLab 3 [MATH-4753-001-002-spring-18]
+UID:event-assignment-687947
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=02&ye
+ ar=2018#assignment_687947
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>Using my script below (make sure you install shiny)</p>
+ \n<p>Make the equivalent for a X~Beta(alpha\,beta) distribution to calculat
+ e P( a&lt\;X&lt\;b) </p>\n<p>Upload a working Rmd file only -- I will run i
+ t -- if it works 100% otherwise 0!</p>\n<p><a class="instructure_file_link 
+ instructure_scribd_file" title="Lab6.Rmd" href="https://canvas.ou.edu/cours
+ es/44991/files/9494594/download?wrap=1" data-api-endpoint="https://canvas.o
+ u.edu/api/v1/courses/44991/files/9494594" data-api-returntype="File">Lab6.R
+ md</a></p>\n<p>Make sure the horizontal axis is taken up with a non zero de
+ nsity.</p>\n<p>Don't do this - see below!! :</p>\n<p><img style="border: 1p
+ x solid #000000\; padding: 2px\;" src="https://canvas.ou.edu/courses/44991/
+ files/9502171/preview" alt="minilab3.jpg" width="611" height="428" data-api
+ -endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9502171" data-a
+ pi-returntype="File"></p><script src="https://instructure-uploads.s3.amazon
+ aws.com/account_88080000000000001/attachments/1368591/canvas_global_app.js?
+ AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Signature=
+ BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-Control%
+ 3Amax-age%3D473364000.0%2C%20public&amp\;response-expires=473364000.0"></sc
+ ript>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Lab5.pdf](https://canvas.ou.edu/courses/59183/files/9427276/do
+ wnload?wrap=1)
+DTEND:20180228T210000Z
+DTSTAMP:20180223T014800Z
+DTSTART:20180228T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab-5 [C S-2614-001]
+UID:event-assignment-687182
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=02&ye
+ ar=2018#assignment_687182
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="Lab5.pdf" href="https://canvas.ou.edu/courses/59183/files/9427276/
+ download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/59
+ 183/files/9427276" data-api-returntype="File">Lab5.pdf</a></p><script src="
+ https://instructure-uploads.s3.amazonaws.com/account_88080000000000001/atta
+ chments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&am
+ p\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;
+ response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&am
+ p\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In Class.
+DTEND:20180228T210000Z
+DTSTAMP:20180226T204800Z
+DTSTART:20180228T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 2 [C S-2614-001]
+UID:event-assignment-688171
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=02&ye
+ ar=2018#assignment_688171
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>In Class.</p><script src="https://instructure-uploads.s
+ 3.amazonaws.com/account_88080000000000001/attachments/1368591/canvas_global
+ _app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Si
+ gnature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-
+ Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expires=473364000
+ .0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180228
+DTSTAMP:20180228T172900Z
+DTSTART;VALUE=DATE:20180228
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 14: Purpose Clauses [LAT-3313-001]
+UID:event-assignment-689086
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=02&ye
+ ar=2018#assignment_689086
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Lab7-1.R](https://canvas.ou.edu/courses/44991/files/8398112/do
+ wnload?wrap=1)\n\n[MATH 4753 Laboratory 7.docx](https://canvas.ou.edu/cours
+ es/44991/files/9488651/download?wrap=1)\n\n[MATH 4753 Laboratory 7.pdf](htt
+ ps://canvas.ou.edu/courses/44991/files/9488650/download?wrap=1)\n\n[mytsim.
+ R](https://canvas.ou.edu/courses/44991/files/8398047/download?wrap=1)\n\n[L
+ ab 7-2-26-2018.pptx](https://canvas.ou.edu/courses/44991/files/9494388/down
+ load?wrap=1)\n\n[Lab 7-2-26-2018.pdf](https://canvas.ou.edu/courses/44991/f
+ iles/9494415/download?wrap=1)\n\nThe R files below are for use in R Markdow
+ n.\n\n[Lab7-rmd-edition.R](https://canvas.ou.edu/courses/44991/files/952003
+ 8/download?wrap=1)\n\n[mytsim-rmd-ready.R](https://canvas.ou.edu/courses/44
+ 991/files/9520037/download?wrap=1)\n\n https://www.flashbackrecorder.com/ex
+ press/ \n\n[bbflash.jpg](https://canvas.ou.edu/courses/44991/files/8398224/
+ preview)\n\n \n\n[table63a.png](https://canvas.ou.edu/courses/44991/files/8
+ 398049/preview)\n\n[table63b.png](https://canvas.ou.edu/courses/44991/files
+ /8398050/preview)\n\n[mychisim.bmp](https://canvas.ou.edu/courses/44991/fil
+ es/8398045/preview)\n\n[mychisim-instructions.jpg](https://canvas.ou.edu/co
+ urses/44991/files/8398046/preview)\n\n[myboot.jpeg](https://canvas.ou.edu/c
+ ourses/44991/files/8398048/preview)\n\n 
+DTEND:20180302T190000Z
+DTSTAMP:20180302T192000Z
+DTSTART:20180302T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab 7 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627432
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=03&ye
+ ar=2018#assignment_627432
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class=" instructure_file_link" title="Lab7-1.R" href
+ ="https://canvas.ou.edu/courses/44991/files/8398112/download?wrap=1" target
+ ="" data-api-returntype="File" data-api-endpoint="https://canvas.ou.edu/api
+ /v1/courses/44991/files/8398112">Lab7-1.R</a></p>\n<p><a class=" instructur
+ e_scribd_file instructure_file_link" title="MATH 4753 Laboratory 7.docx" hr
+ ef="https://canvas.ou.edu/courses/44991/files/9488651/download?wrap=1" targ
+ et="" data-api-returntype="File" data-api-endpoint="https://canvas.ou.edu/a
+ pi/v1/courses/44991/files/9488651">MATH 4753 Laboratory 7.docx</a></p>\n<p>
+ <a class="instructure_file_link instructure_scribd_file" title="MATH 4753 L
+ aboratory 7.pdf" href="https://canvas.ou.edu/courses/44991/files/9488650/do
+ wnload?wrap=1" data-api-returntype="File" data-api-endpoint="https://canvas
+ .ou.edu/api/v1/courses/44991/files/9488650">MATH 4753 Laboratory 7.pdf</a><
+ /p>\n<p><a class=" instructure_file_link" title="mytsim.R" href="https://ca
+ nvas.ou.edu/courses/44991/files/8398047/download?wrap=1" target="" data-api
+ -returntype="File" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/
+ 44991/files/8398047">mytsim.R</a></p>\n<p><a class="instructure_file_link i
+ nstructure_scribd_file" title="Lab 7-2-26-2018.pptx" href="https://canvas.o
+ u.edu/courses/44991/files/9494388/download?wrap=1" data-api-endpoint="https
+ ://canvas.ou.edu/api/v1/courses/44991/files/9494388" data-api-returntype="F
+ ile">Lab 7-2-26-2018.pptx</a></p>\n<p><a class="instructure_file_link instr
+ ucture_scribd_file" title="Lab 7-2-26-2018.pdf" href="https://canvas.ou.edu
+ /courses/44991/files/9494415/download?wrap=1" data-api-endpoint="https://ca
+ nvas.ou.edu/api/v1/courses/44991/files/9494415" data-api-returntype="File">
+ Lab 7-2-26-2018.pdf</a></p>\n<p>The R files below are for use in R Markdown
+ .</p>\n<p><a class="instructure_file_link" title="Lab7-rmd-edition.R" href=
+ "https://canvas.ou.edu/courses/44991/files/9520038/download?wrap=1" data-ap
+ i-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9520038" data-
+ api-returntype="File">Lab7-rmd-edition.R</a></p>\n<p><a class="instructure_
+ file_link" title="mytsim-rmd-ready.R" href="https://canvas.ou.edu/courses/4
+ 4991/files/9520037/download?wrap=1" data-api-endpoint="https://canvas.ou.ed
+ u/api/v1/courses/44991/files/9520037" data-api-returntype="File">mytsim-rmd
+ -ready.R</a></p>\n<p> <a href="https://www.flashbackrecorder.com/express/">
+ https://www.flashbackrecorder.com/express/</a> </p>\n<p><img src="https://c
+ anvas.ou.edu/courses/44991/files/8398224/preview" alt="bbflash.jpg" width="
+ 300" height="180" data-api-returntype="File" data-api-endpoint="https://can
+ vas.ou.edu/api/v1/courses/44991/files/8398224"></p>\n<p> </p>\n<p><img src=
+ "https://canvas.ou.edu/courses/44991/files/8398049/preview" alt="table63a.p
+ ng" data-api-returntype="File" data-api-endpoint="https://canvas.ou.edu/api
+ /v1/courses/44991/files/8398049"></p>\n<p><img src="https://canvas.ou.edu/c
+ ourses/44991/files/8398050/preview" alt="table63b.png" data-api-returntype=
+ "File" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/
+ 8398050"></p>\n<p><img src="https://canvas.ou.edu/courses/44991/files/83980
+ 45/preview" alt="mychisim.bmp" data-api-returntype="File" data-api-endpoint
+ ="https://canvas.ou.edu/api/v1/courses/44991/files/8398045"></p>\n<p><img s
+ rc="https://canvas.ou.edu/courses/44991/files/8398046/preview" alt="mychisi
+ m-instructions.jpg" width="960" height="720" data-api-returntype="File" dat
+ a-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/8398046"><
+ /p>\n<p><img src="https://canvas.ou.edu/courses/44991/files/8398048/preview
+ " alt="myboot.jpeg" width="653" height="653" data-api-returntype="File" dat
+ a-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/8398048"><
+ /p>\n<p> </p><script src="https://instructure-uploads.s3.amazonaws.com/acco
+ unt_88080000000000001/attachments/1368591/canvas_global_app.js?AWSAccessKey
+ Id=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Signature=BBbTvxxJI43R
+ wX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-Control%3Amax-age%3D
+ 473364000.0%2C%20public&amp\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180304
+DTSTAMP:20180225T165500Z
+DTSTART;VALUE=DATE:20180304
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 6 [LAT-3313-001]
+UID:event-assignment-687591
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=03&ye
+ ar=2018#assignment_687591
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Lab6.pdf](https://canvas.ou.edu/courses/59183/files/9427272/do
+ wnload?wrap=1)
+DTEND:20180307T210000Z
+DTSTAMP:20180302T133300Z
+DTSTART:20180307T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab-6 [C S-2614-001]
+UID:event-assignment-689941
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=03&ye
+ ar=2018#assignment_689941
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="Lab6.pdf" href="https://canvas.ou.edu/courses/59183/files/9427272/
+ download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/59
+ 183/files/9427272" data-api-returntype="File">Lab6.pdf</a></p><script src="
+ https://instructure-uploads.s3.amazonaws.com/account_88080000000000001/atta
+ chments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&am
+ p\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;
+ response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&am
+ p\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In Class.
+DTEND:20180307T210000Z
+DTSTAMP:20180226T204900Z
+DTSTART:20180307T210000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Mid-Term [C S-2614-001]
+UID:event-assignment-688179
+URL:http://canvas.ou.edu/calendar?include_contexts=course_59183&month=03&ye
+ ar=2018#assignment_688179
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>In Class.</p><script src="https://instructure-uploads.s
+ 3.amazonaws.com/account_88080000000000001/attachments/1368591/canvas_global
+ _app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Si
+ gnature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-
+ Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expires=473364000
+ .0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20180308T163000Z
+DTSTAMP:20171215T175500Z
+DTSTART:20180308T160000Z
+CLASS:PUBLIC
+LOCATION:Union\, 
+SEQUENCE:0
+SUMMARY:Leadership Symposium: Welcome [HLA]
+UID:event-calendar-event-114287
+URL:http://canvas.ou.edu/calendar?include_contexts=course_54503&month=03&ye
+ ar=2018#calendar_event_114287
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20180308T174500Z
+DTSTAMP:20171215T175600Z
+DTSTART:20180308T163000Z
+CLASS:PUBLIC
+LOCATION:Union\, 
+SEQUENCE:0
+SUMMARY:Leadership Symposium: Morning Sessions [HLA]
+UID:event-calendar-event-114288
+URL:http://canvas.ou.edu/calendar?include_contexts=course_54503&month=03&ye
+ ar=2018#calendar_event_114288
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20180308T191500Z
+DTSTAMP:20171215T175700Z
+DTSTART:20180308T180000Z
+CLASS:PUBLIC
+LOCATION:Union Ballroom\, 
+SEQUENCE:0
+SUMMARY:Leadership Symposium: Keynote Address & Lunch [HLA]
+UID:event-calendar-event-114289
+URL:http://canvas.ou.edu/calendar?include_contexts=course_54503&month=03&ye
+ ar=2018#calendar_event_114289
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20180308T204500Z
+DTSTAMP:20171215T175700Z
+DTSTART:20180308T193000Z
+CLASS:PUBLIC
+LOCATION:Union\, 
+SEQUENCE:0
+SUMMARY:Leadership Symposium: Afternoon Sessions [HLA]
+UID:event-calendar-event-114290
+URL:http://canvas.ou.edu/calendar?include_contexts=course_54503&month=03&ye
+ ar=2018#calendar_event_114290
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20180308T223000Z
+DTSTAMP:20171215T175800Z
+DTSTART:20180308T210000Z
+CLASS:PUBLIC
+LOCATION:Union\, 
+SEQUENCE:0
+SUMMARY:Mentors Reception [HLA]
+UID:event-calendar-event-114291
+URL:http://canvas.ou.edu/calendar?include_contexts=course_54503&month=03&ye
+ ar=2018#calendar_event_114291
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venue :: USUAL CLASS ROOM\n\nThe exam will cover the same mater
+ ial as is shown in these previous exams and answers.\n\n[Exam 1 hints Sprin
+ g 2018.pdf](https://canvas.ou.edu/courses/44991/files/8398223/download?wrap
+ =1)\n\nSee all help files in Exam help files folder \n\n 
+DTEND:20180309T163000Z
+DTSTAMP:20180225T222900Z
+DTSTART:20180309T163000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Exam 1  (MATH-4753-002) [MATH-4753-001-002-spring-18]
+UID:event-assignment-override-16730
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=03&ye
+ ar=2018#assignment_627415
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span style="text-decoration: underline\;"><strong>Venu
+ e :: USUAL CLASS ROOM</strong></span></p>\n<p>The exam will cover the same 
+ material as is shown in these previous exams and answers.</p>\n<p><a class=
+ "instructure_file_link instructure_scribd_file" title="Exam 1 hints fall 20
+ 17.pdf" href="https://canvas.ou.edu/courses/44991/files/8398223/download?wr
+ ap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/8
+ 398223" data-api-returntype="File">Exam 1 hints Spring 2018.pdf</a></p>\n<p
+ >See all help files in Exam help files folder </p>\n<p> </p><script src="ht
+ tps://instructure-uploads.s3.amazonaws.com/account_88080000000000001/attach
+ ments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\
+ ;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;re
+ sponse-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\
+ ;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This quiz covers chapter 5 of MS. There are learning objectives
+  that will be examined. If you acquire mastery you will receive full points
+ . Read Chapter 5 in preparation for this quiz.[statsbook.jpg](https://canva
+ s.ou.edu/courses/44991/files/8398165/preview)
+DTEND:20180312T180000Z
+DTSTAMP:20180205T013600Z
+DTSTART:20180312T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 5 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627400
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=03&ye
+ ar=2018#assignment_627400
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span>This quiz covers chapter 5 of MS. There are learn
+ ing objectives that will be examined. If you acquire mastery you will recei
+ ve full points. Read Chapter 5 in preparation for this quiz.</span><img sty
+ le="display: block\; margin-left: auto\; margin-right: auto\;" src="https:/
+ /canvas.ou.edu/courses/44991/files/8398165/preview" alt="statsbook.jpg" wid
+ th="147" height="187" data-api-endpoint="https://canvas.ou.edu/api/v1/cours
+ es/44991/files/8398165" data-api-returntype="File"></p><script src="https:/
+ /instructure-uploads.s3.amazonaws.com/account_88080000000000001/attachments
+ /1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expi
+ res=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;respons
+ e-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;resp
+ onse-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Project3v2.pdf](https://canvas.ou.edu/courses/46200/files/9533
+ 466/download?wrap=1)\n\n[p3input.txt](https://canvas.ou.edu/courses/46200/f
+ iles/9533469/download?wrap=1)\n\n 
+DTEND;VALUE=DATE:20180316
+DTSTAMP:20180228T212600Z
+DTSTART;VALUE=DATE:20180316
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project 3: Due March 16th [C S-2413-001]
+UID:event-assignment-689240
+URL:http://canvas.ou.edu/calendar?include_contexts=course_46200&month=03&ye
+ ar=2018#assignment_689240
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><a class="instructure_file_link instructure_scribd_file
+ " title="Project3v2.pdf" href="https://canvas.ou.edu/courses/46200/files/95
+ 33466/download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/cour
+ ses/46200/files/9533466" data-api-returntype="File">Project3v2.pdf</a></p>\
+ n<p><a class="instructure_file_link instructure_scribd_file" title="p3input
+ .txt" href="https://canvas.ou.edu/courses/46200/files/9533469/download?wrap
+ =1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/46200/files/953
+ 3469" data-api-returntype="File">p3input.txt</a></p>\n<p> </p><script src="
+ https://instructure-uploads.s3.amazonaws.com/account_88080000000000001/atta
+ chments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&am
+ p\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;
+ response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&am
+ p\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This quiz covers chapter 6 of MS. There are learning objectives
+  that will be examined. If you acquire mastery you will receive full points
+ . Read Chapter 6 in preparation for this quiz.[statsbook.jpg](https://canva
+ s.ou.edu/courses/44991/files/8398165/preview)
+DTEND:20180402T180000Z
+DTSTAMP:20180205T013600Z
+DTSTART:20180402T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 6 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627409
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=04&ye
+ ar=2018#assignment_627409
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span>This quiz covers chapter 6 of MS. There are learn
+ ing objectives that will be examined. If you acquire mastery you will recei
+ ve full points. Read Chapter 6 in preparation for this quiz.</span><img sty
+ le="display: block\; margin-left: auto\; margin-right: auto\;" src="https:/
+ /canvas.ou.edu/courses/44991/files/8398165/preview" alt="statsbook.jpg" wid
+ th="147" height="187" data-api-endpoint="https://canvas.ou.edu/api/v1/cours
+ es/44991/files/8398165" data-api-returntype="File"></p><script src="https:/
+ /instructure-uploads.s3.amazonaws.com/account_88080000000000001/attachments
+ /1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expi
+ res=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;respons
+ e-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;resp
+ onse-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20180404T010000Z
+DTSTAMP:20180113T060500Z
+DTSTART:20180403T230000Z
+CLASS:PUBLIC
+LOCATION:REPF 200\, 
+SEQUENCE:0
+SUMMARY:April HLA Meeting [HLA]
+UID:event-calendar-event-117266
+URL:http://canvas.ou.edu/calendar?include_contexts=course_54503&month=04&ye
+ ar=2018#calendar_event_117266
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Latest help -- can change up to the exam date -- always recheck
+ !\n\n[MATH 4753 Exam 2 FALL 2017.pdf](https://canvas.ou.edu/courses/44991/f
+ iles/8398243/download?wrap=1)\n\nExam 2 on ch 5\,6\,7\n\nThe exam will have
+  7 questions:\n\n* You will need to be able to calculate ci's using a formu
+ la we have developed in class!\n\n* You will need to calculate "c" in a biv
+ ariate density\n\n* Make sure you can calculate a covariance\n\n* You will 
+ need to be  able to select quantiles using appropriate R formulae.\n\n* Mus
+ t be able to understand the NEWTON-RAPHSON formula Lab 10 due Thursday\n\n*
+  Must be able to use the Normals approximation to Binomial (this involves d
+ iscrete adjustments)\n\n* Must be able prove formulae for cis\n\n* Must be 
+ able to understand R functions!!\n\n* Change of variable formula\n\n[exam2 
+ Questions-SPRING-April7-8-2016.pdf](https://canvas.ou.edu/courses/44991/fil
+ es/8398209/download?wrap=1)\n\n[exam2-answers-ise-2016.pdf](https://canvas.
+ ou.edu/courses/44991/files/8398216/download?wrap=1)\n\nAnswers to SPRING 20
+ 17 Exam 2 -- [Exam2-answers-2017.pdf](https://canvas.ou.edu/courses/44991/f
+ iles/8398222/download?wrap=1)\n\n[normal-binomial-approx.R](https://canvas.
+ ou.edu/courses/44991/files/8398238/download?wrap=1)\n\n# Use CLT\n# Suppose
+  S = Y_1 + ... + Y_n \, where Y_i iid Bern(P)\n# S ~ N(np\, npq) approx\, b
+ y CLT\n\n# Suppose n = 20\, p = 0.4 find the following using the Normal app
+ rox\n# Hint -- YOU MUST draw a normal picture!!!!!\n\n# P(S>2)\, S discrete
+  = approx P(S>=2.5) where S ~ N cont\n1-pnorm(2.5\, 20*0.4\, sqrt(20*0.4*0.
+ 6))\n1-pbinom(2\,size =20\,prob=0.4)\n\n# P( S = 4)\, S is discrete = appro
+ x P( 3.5<=S<=4.5) where S ~ N cont\n\npnorm(4.5\, 20*0.4\, sqrt(20*0.4*0.6)
+ ) - pnorm(3.5\,20*0.4\, sqrt(20*0.4*0.6))\ndbinom(4\, size =20\,prob=0.4)\n
+ \n> 1-pnorm(2.5\, 20*0.4\, sqrt(20*0.4*0.6))\n[1] 0.9939702\n> 1-pbinom(2\,
+ size =20\,prob=0.4)\n[1] 0.9963885\n> pnorm(4.5\, 20*0.4\, sqrt(20*0.4*0.6)
+ ) - pnorm(3.5\,20*0.4\, sqrt(20*0.4*0.6))\n[1] 0.03508466\n> dbinom(4\, siz
+ e =20\,prob=0.4)\n[1] 0.03499079\n>
+DTEND:20180406T153000Z
+DTSTAMP:20180129T195600Z
+DTSTART:20180406T153000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Exam 2 (MATH-4753-002) [MATH-4753-001-002-spring-18]
+UID:event-assignment-override-16732
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=04&ye
+ ar=2018#assignment_627417
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>Latest help -- can change up to the exam date -- always
+  recheck!</p>\n<p><a class="instructure_file_link instructure_scribd_file" 
+ title="MATH 4753 Exam 2 FALL 2017.pdf" href="https://canvas.ou.edu/courses/
+ 44991/files/8398243/download?wrap=1" data-api-endpoint="https://canvas.ou.e
+ du/api/v1/courses/44991/files/8398243" data-api-returntype="File">MATH 4753
+  Exam 2 FALL 2017.pdf</a></p>\n<p>Exam 2 on ch 5\,6\,7</p>\n<p>The exam wil
+ l have 7 questions:</p>\n<ul>\n<li>You will need to be able to calculate ci
+ 's using a formula we have developed in class!</li>\n<li>You will need to c
+ alculate "c" in a bivariate density</li>\n<li>Make sure you can calculate a
+  covariance</li>\n<li>You will need to be  able to select quantiles using a
+ ppropriate R formulae.</li>\n<li>Must be able to understand the NEWTON-RAPH
+ SON formula Lab 10 due Thursday</li>\n<li>Must be able to use the Normals a
+ pproximation to Binomial (this involves discrete adjustments)</li>\n<li>Mus
+ t be able prove formulae for cis</li>\n<li>Must be able to understand R fun
+ ctions!!</li>\n<li>Change of variable formula</li>\n</ul>\n<p><a id="" clas
+ s=" instructure_scribd_file instructure_file_link" title="exam2 Questions-S
+ PRING-April7-8-2016.pdf" href="https://canvas.ou.edu/courses/44991/files/83
+ 98209/download?wrap=1" target="" data-api-endpoint="https://canvas.ou.edu/a
+ pi/v1/courses/44991/files/8398209" data-api-returntype="File">exam2 Questio
+ ns-SPRING-April7-8-2016.pdf</a></p>\n<p><a id="" class=" instructure_scribd
+ _file instructure_file_link" title="exam2-answers-ise-2016.pdf" href="https
+ ://canvas.ou.edu/courses/44991/files/8398216/download?wrap=1" target="" dat
+ a-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/8398216" d
+ ata-api-returntype="File">exam2-answers-ise-2016.pdf</a></p>\n<p>Answers to
+  SPRING 2017 Exam 2 -- <a id="" class=" instructure_scribd_file instructure
+ _file_link" title="Exam2-answers-2017.pdf" href="https://canvas.ou.edu/cour
+ ses/44991/files/8398222/download?wrap=1" target="" data-api-endpoint="https
+ ://canvas.ou.edu/api/v1/courses/44991/files/8398222" data-api-returntype="F
+ ile">Exam2-answers-2017.pdf</a></p>\n<p><a class="instructure_file_link" ti
+ tle="normal-binomial-approx.R" href="https://canvas.ou.edu/courses/44991/fi
+ les/8398238/download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v
+ 1/courses/44991/files/8398238" data-api-returntype="File">normal-binomial-a
+ pprox.R</a></p>\n<p># Use CLT<br># Suppose S = Y_1 + ... + Y_n \, where Y_i
+  iid Bern(P)<br># S ~ N(np\, npq) approx\, by CLT</p>\n<p># Suppose n = 20\
+ , p = 0.4 find the following using the Normal approx<br># Hint -- YOU MUST 
+ draw a normal picture!!!!!</p>\n<p># P(S&gt\;2)\, S discrete = approx P(S&g
+ t\;=2.5) where S ~ N cont<br>1-pnorm(2.5\, 20*0.4\, sqrt(20*0.4*0.6))<br>1-
+ pbinom(2\,size =20\,prob=0.4)</p>\n<p># P( S = 4)\, S is discrete = approx 
+ P( 3.5&lt\;=S&lt\;=4.5) where S ~ N cont</p>\n<p>pnorm(4.5\, 20*0.4\, sqrt(
+ 20*0.4*0.6)) - pnorm(3.5\,20*0.4\, sqrt(20*0.4*0.6))<br>dbinom(4\, size =20
+ \,prob=0.4)</p>\n<p>&gt\; 1-pnorm(2.5\, 20*0.4\, sqrt(20*0.4*0.6))<br>[1] 0
+ .9939702<br>&gt\; 1-pbinom(2\,size =20\,prob=0.4)<br>[1] 0.9963885<br>&gt\;
+  pnorm(4.5\, 20*0.4\, sqrt(20*0.4*0.6)) - pnorm(3.5\,20*0.4\, sqrt(20*0.4*0
+ .6))<br>[1] 0.03508466<br>&gt\; dbinom(4\, size =20\,prob=0.4)<br>[1] 0.034
+ 99079<br>&gt\;</p><script src="https://instructure-uploads.s3.amazonaws.com
+ /account_88080000000000001/attachments/1368591/canvas_global_app.js?AWSAcce
+ ssKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Signature=BBbTvxx
+ JI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-Control%3Amax-a
+ ge%3D473364000.0%2C%20public&amp\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This quiz covers chapter 7 of MS. There are learning objectives
+  that will be examined. If you acquire mastery you will receive full points
+ . Read Chapter 7 in preparation for this quiz.[statsbook.jpg](https://canva
+ s.ou.edu/courses/44991/files/8398165/preview)
+DTEND:20180409T180000Z
+DTSTAMP:20180205T013600Z
+DTSTART:20180409T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 7 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627404
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=04&ye
+ ar=2018#assignment_627404
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span>This quiz covers chapter 7 of MS. There are learn
+ ing objectives that will be examined. If you acquire mastery you will recei
+ ve full points. Read Chapter 7 in preparation for this quiz.</span><img sty
+ le="display: block\; margin-left: auto\; margin-right: auto\;" src="https:/
+ /canvas.ou.edu/courses/44991/files/8398165/preview" alt="statsbook.jpg" wid
+ th="147" height="187" data-api-endpoint="https://canvas.ou.edu/api/v1/cours
+ es/44991/files/8398165" data-api-returntype="File"></p><script src="https:/
+ /instructure-uploads.s3.amazonaws.com/account_88080000000000001/attachments
+ /1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expi
+ res=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;respons
+ e-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;resp
+ onse-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20180413T003000Z
+DTSTAMP:20171215T180000Z
+DTSTART:20180412T110000Z
+CLASS:PUBLIC
+LOCATION:REPF 200\, 
+SEQUENCE:0
+SUMMARY:HLA Senior Send-Off [HLA]
+UID:event-calendar-event-114293
+URL:http://canvas.ou.edu/calendar?include_contexts=course_54503&month=04&ye
+ ar=2018#calendar_event_114293
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This quiz covers chapter 8 of MS. There are learning objectives
+  that will be examined. If you acquire mastery you will receive full points
+ . Read Chapter 8 in preparation for this quiz.[statsbook.jpg](https://canva
+ s.ou.edu/courses/44991/files/8398165/preview)
+DTEND:20180416T180000Z
+DTSTAMP:20180205T013600Z
+DTSTART:20180416T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 8 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627408
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=04&ye
+ ar=2018#assignment_627408
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span>This quiz covers chapter 8 of MS. There are learn
+ ing objectives that will be examined. If you acquire mastery you will recei
+ ve full points. Read Chapter 8 in preparation for this quiz.</span><img sty
+ le="display: block\; margin-left: auto\; margin-right: auto\;" src="https:/
+ /canvas.ou.edu/courses/44991/files/8398165/preview" alt="statsbook.jpg" wid
+ th="147" height="187" data-api-endpoint="https://canvas.ou.edu/api/v1/cours
+ es/44991/files/8398165" data-api-returntype="File"></p><script src="https:/
+ /instructure-uploads.s3.amazonaws.com/account_88080000000000001/attachments
+ /1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expi
+ res=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;respons
+ e-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;resp
+ onse-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180416
+DTSTAMP:20180219T065400Z
+DTSTART;VALUE=DATE:20180416
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Leadership Vita: April 2018 [HLA]
+UID:event-assignment-333723
+URL:http://canvas.ou.edu/calendar?include_contexts=course_54503&month=04&ye
+ ar=2018#assignment_333723
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This quiz covers chapter 10 of MS. There are learning objective
+ s that will be examined. If you acquire mastery you will receive full point
+ s. Read Chapter 10 in preparation for this quiz.[statsbook.jpg](https://can
+ vas.ou.edu/courses/44991/files/8398165/preview)
+DTEND:20180423T180000Z
+DTSTAMP:20180205T013600Z
+DTSTART:20180423T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Chapter 10 [MATH-4753-001-002-spring-18]
+UID:event-assignment-627401
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=04&ye
+ ar=2018#assignment_627401
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span>This quiz covers chapter 10 of MS. There are lear
+ ning objectives that will be examined. If you acquire mastery you will rece
+ ive full points. Read Chapter 10 in preparation for this quiz.</span><img s
+ tyle="display: block\; margin-left: auto\; margin-right: auto\;" src="https
+ ://canvas.ou.edu/courses/44991/files/8398165/preview" alt="statsbook.jpg" w
+ idth="147" height="187" data-api-endpoint="https://canvas.ou.edu/api/v1/cou
+ rses/44991/files/8398165" data-api-returntype="File"></p><script src="https
+ ://instructure-uploads.s3.amazonaws.com/account_88080000000000001/attachmen
+ ts/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Ex
+ pires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;respo
+ nse-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;re
+ sponse-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:You MUST use this project template Rmd file: \n\nChange the hea
+ dings for your particular model and data etc.\n\n[project.Rmd](https://canv
+ as.ou.edu/courses/44991/files/9413423/download?wrap=1)\n\n[project.html](ht
+ tps://canvas.ou.edu/courses/44991/files/9413414/download?wrap=1)\n\n[projec
+ t.pdf](https://canvas.ou.edu/courses/44991/files/9413421/download?wrap=1)\n
+ \n[project.bib](https://canvas.ou.edu/courses/44991/files/9413412/download?
+ wrap=1)\n\nEven better -- here are the zipped up files -- unzip to your pro
+ ject directory.\n\n[project-template.zip](https://canvas.ou.edu/courses/449
+ 91/files/9433747/download?wrap=1)\n\nYou will need to use bibtex and make a
+  bibliography:\n\nHow to change e options on BBFLASH to make smaller file s
+ ize:\n\n[Project-Requirements-2018.docx](https://canvas.ou.edu/courses/4499
+ 1/files/9358046/download?wrap=1)\n\n[Project-Requirements-2018.pdf](https:/
+ /canvas.ou.edu/courses/44991/files/9358045/download?wrap=1)\n\nhttps://ocw.
+ mit.edu/courses/civil-and-environmental-engineering/1-151-probability-and-s
+ tatistics-in-engineering-spring-2005/lecture-notes/app19_fin_regs.pdf\n\n[r
+ egression (1).pdf](https://canvas.ou.edu/courses/44991/files/8398152/downlo
+ ad?wrap=1)\n\n [Project Data](https://canvas.ou.edu/courses/44991/discussio
+ n_topics/315671)\n\nTheory -- http://onlinelibrary.wiley.com.ezproxy.lib.ou
+ .edu/doi/10.1002/9780470721896.ch14/pdf[](http://onlinelibrary.wiley.com.ez
+ proxy.lib.ou.edu/doi/10.1002/9780470721896.ch14/pdf)\n\n Below is about a "
+ B"\, dont copy it -- just get ideas from it.\n\n[Rugby Pressure!.pdf](https
+ ://canvas.ou.edu/courses/44991/files/8398118/download?wrap=1)\n\nGet BBFLAS
+ H EXPRESS!!\n\nhttps://www.flashbackrecorder.com/express/\n\n[bbflash.jpg](
+ https://canvas.ou.edu/courses/44991/files/8398224/preview)\n\n[](https://ca
+ nvas.ou.edu/courses/44991/files/8398118/download?wrap=1)[](http://onlinelib
+ rary.wiley.com.ezproxy.lib.ou.edu/doi/10.1002/9780470721896.ch14/pdf)[](htt
+ p://onlinelibrary.wiley.com.ezproxy.lib.ou.edu/doi/10.1002/9780470721896.ch
+ 14/pdf)
+DTEND:20180427T180000Z
+DTSTAMP:20180218T121800Z
+DTSTART:20180427T180000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project [MATH-4753-001-002-spring-18]
+UID:event-assignment-627435
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=04&ye
+ ar=2018#assignment_627435
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p>You MUST use this project template Rmd file: </p>\n<p>C
+ hange the headings for your particular model and data etc.</p>\n<p><a class
+ ="instructure_file_link instructure_scribd_file" title="project.Rmd" href="
+ https://canvas.ou.edu/courses/44991/files/9413423/download?wrap=1" data-api
+ -endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9413423" data-a
+ pi-returntype="File">project.Rmd</a></p>\n<p><a class="instructure_file_lin
+ k instructure_scribd_file" title="project.html" href="https://canvas.ou.edu
+ /courses/44991/files/9413414/download?wrap=1" data-api-endpoint="https://ca
+ nvas.ou.edu/api/v1/courses/44991/files/9413414" data-api-returntype="File">
+ project.html</a></p>\n<p><a class="instructure_file_link instructure_scribd
+ _file" title="project.pdf" href="https://canvas.ou.edu/courses/44991/files/
+ 9413421/download?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/co
+ urses/44991/files/9413421" data-api-returntype="File">project.pdf</a></p>\n
+ <p><a class="instructure_file_link instructure_scribd_file" title="project.
+ bib" href="https://canvas.ou.edu/courses/44991/files/9413412/download?wrap=
+ 1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9413
+ 412" data-api-returntype="File">project.bib</a></p>\n<p>Even better -- here
+  are the zipped up files -- unzip to your project directory.</p>\n<p><a cla
+ ss="instructure_file_link instructure_scribd_file" title="project-template.
+ zip" href="https://canvas.ou.edu/courses/44991/files/9433747/download?wrap=
+ 1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9433
+ 747" data-api-returntype="File">project-template.zip</a></p>\n<p>You will n
+ eed to use bibtex and make a bibliography:</p>\n<table>\n<tbody>\n<tr>\n<td
+ >\n<div><iframe style="width: 304px\; height: 231px\;" title="Screen Captur
+ e - 2018 Feb 13 09:25:04 (05:21)" src="https://canvas.ou.edu/courses/44991/
+ external_tools/retrieve?display=borderless&amp\;url=https%3A%2F%2Fkaf.canva
+ s.ou.edu%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F0_0ca4clvy%2FshowDesc
+ ription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffal
+ se%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F304x231%2Fpl
+ ayerSkin%2F27748091%2F" width="304" height="231" allowfullscreen="allowfull
+ screen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="m
+ ozallowfullscreen"></iframe></div>\n</td>\n<td>\n<div><iframe style="width:
+  304px\; height: 231px\;" title="Screen Capture - 2018 Feb 13 09:38:12 (01:
+ 52)" src="https://canvas.ou.edu/courses/44991/external_tools/retrieve?displ
+ ay=borderless&amp\;url=https%3A%2F%2Fkaf.canvas.ou.edu%2Fbrowseandembed%2Fi
+ ndex%2Fmedia%2Fentryid%2F0_c896tswz%2FshowDescription%2Ffalse%2FshowTitle%2
+ Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2Fshow
+ UploadDate%2Ffalse%2FplayerSize%2F304x231%2FplayerSkin%2F27748091%2F" width
+ ="304" height="231" allowfullscreen="allowfullscreen" webkitallowfullscreen
+ ="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe><
+ /div>\n</td>\n</tr>\n<tr>\n<td>\n<div><iframe style="width: 304px\; height:
+  231px\;" title="Screen Capture - 2018 Feb 15 10:21:54" src="https://canvas
+ .ou.edu/courses/44991/external_tools/retrieve?display=borderless&amp\;url=h
+ ttps%3A%2F%2Fkaf.canvas.ou.edu%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2
+ F0_4z0ixe9i%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffals
+ e%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2Fpla
+ yerSize%2F304x231%2FplayerSkin%2F27748091%2F" width="304" height="231" allo
+ wfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen"
+  mozallowfullscreen="mozallowfullscreen"></iframe></div>\n</td>\n<td></td>\
+ n</tr>\n</tbody>\n</table>\n<p>How to change e options on BBFLASH to make s
+ maller file size:</p>\n<p><iframe style="width: 304px\; height: 231px\;" ti
+ tle="Screen Capture - 2017 Oct 16 03:28:45 (01:49)" src="https://canvas.ou.
+ edu/courses/44991/external_tools/retrieve?display=borderless&amp\;url=https
+ %3A%2F%2Fkaf.canvas.ou.edu%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F0_y
+ dt3gutv%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2F
+ showDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerS
+ ize%2F304x231%2FplayerSkin%2F27748091%2F" width="300" height="150" allowful
+ lscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" moz
+ allowfullscreen="mozallowfullscreen"></iframe></p>\n<p><a class="instructur
+ e_file_link instructure_scribd_file" title="Project-Requirements-2018.docx"
+  href="https://canvas.ou.edu/courses/44991/files/9358046/download?wrap=1" d
+ ata-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/9358046"
+  data-api-returntype="File">Project-Requirements-2018.docx</a></p>\n<p><a c
+ lass="instructure_file_link instructure_scribd_file" title="Project-Require
+ ments-2018.pdf" href="https://canvas.ou.edu/courses/44991/files/9358045/dow
+ nload?wrap=1" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991
+ /files/9358045" data-api-returntype="File">Project-Requirements-2018.pdf</a
+ ></p>\n<p><a href="https://ocw.mit.edu/courses/civil-and-environmental-engi
+ neering/1-151-probability-and-statistics-in-engineering-spring-2005/lecture
+ -notes/app19_fin_regs.pdf">https://ocw.mit.edu/courses/civil-and-environmen
+ tal-engineering/1-151-probability-and-statistics-in-engineering-spring-2005
+ /lecture-notes/app19_fin_regs.pdf</a></p>\n<p><a class=" instructure_scribd
+ _file instructure_file_link" title="regression (1).pdf" href="https://canva
+ s.ou.edu/courses/44991/files/8398152/download?wrap=1" target="" data-api-re
+ turntype="File" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/449
+ 91/files/8398152">regression (1).pdf</a></p>\n<p> <a title="Project Data" h
+ ref="https://canvas.ou.edu/courses/44991/discussion_topics/315671" target="
+ " data-api-returntype="Discussion" data-api-endpoint="https://canvas.ou.edu
+ /api/v1/courses/44991/discussion_topics/315671">Project Data</a></p>\n<p>Th
+ eory -- <a href="http://onlinelibrary.wiley.com.ezproxy.lib.ou.edu/doi/10.1
+ 002/9780470721896.ch14/pdf">http://onlinelibrary.wiley.com.ezproxy.lib.ou.e
+ du/doi/10.1002/9780470721896.ch14/pdf</a><a title="" href="http://onlinelib
+ rary.wiley.com.ezproxy.lib.ou.edu/doi/10.1002/9780470721896.ch14/pdf" targe
+ t=""></a></p>\n<p> Below is about a "B"\, dont copy it -- just get ideas fr
+ om it.</p>\n<p><a class=" instructure_scribd_file instructure_file_link" ti
+ tle="Rugby Pressure!.pdf" href="https://canvas.ou.edu/courses/44991/files/8
+ 398118/download?wrap=1" target="" data-api-returntype="File" data-api-endpo
+ int="https://canvas.ou.edu/api/v1/courses/44991/files/8398118">Rugby Pressu
+ re!.pdf</a></p>\n<p>Get BBFLASH EXPRESS!!</p>\n<p><a href="https://www.flas
+ hbackrecorder.com/express/">https://www.flashbackrecorder.com/express/</a><
+ /p>\n<p><img src="https://canvas.ou.edu/courses/44991/files/8398224/preview
+ " alt="bbflash.jpg" width="300" height="180" data-api-returntype="File" dat
+ a-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/8398224"><
+ /p>\n<p><a class=" instructure_scribd_file instructure_file_link" title="Ru
+ gby Pressure!.pdf" href="https://canvas.ou.edu/courses/44991/files/8398118/
+ download?wrap=1" target="" data-api-returntype="File" data-api-endpoint="ht
+ tps://canvas.ou.edu/api/v1/courses/44991/files/8398118"></a><a title="" hre
+ f="http://onlinelibrary.wiley.com.ezproxy.lib.ou.edu/doi/10.1002/9780470721
+ 896.ch14/pdf" target=""></a><a title="" href="http://onlinelibrary.wiley.co
+ m.ezproxy.lib.ou.edu/doi/10.1002/9780470721896.ch14/pdf" target=""></a></p>
+ <script src="https://instructure-uploads.s3.amazonaws.com/account_880800000
+ 00000001/attachments/1368591/canvas_global_app.js?AWSAccessKeyId=AKIAJFNFXH
+ 2V2O7RPCAA&amp\;Expires=1945434298&amp\;Signature=BBbTvxxJI43RwX%2BlrgH8Jd3
+ KKos%3D&amp\;response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2
+ C%20public&amp\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Final (This help will be updated at will till exam)\n\nWill be 
+ comprehensive.\n\nWill major on Chapters 6\,7\,8 and 10.\n\nA pdf from prev
+ ious years [Pointed Help for the FINAL-2017.pdf](https://canvas.ou.edu/cour
+ ses/44991/files/8398163/download?wrap=1)\n\nThe exam for FALL 2017 will tak
+ e same format.\n\nRemember that you are expected to prove that:\n\n[LaTeX: 
+ E(S^2)=\sigma^2 ](https://canvas.ou.edu/equation_images/E%2528S%255E2%2529%
+ 253D%255Csigma%255E2%2520)\n\nThe exam is in two parts -- Part 1 -- MUST do
+  all questions!  Part 2 -- do 4 of the 6. There will be a total of 8 questi
+ ons you MUST do to get full credit.\n\n[questionheader-2017.png](https://ca
+ nvas.ou.edu/courses/44991/files/8398128/preview)\n\nRefer to the bullet poi
+ nts below for help and guidance - THIS WILL NOT BE EXHAUSTIVE so study ever
+ ything you need to:\n\n* Theory developed in class -- some of which is show
+ n in chapters 10\,8\,7\,6\n\n* [LaTeX: \hat{\beta}_1=\frac{ SS_{XY}}{SS_{XX
+ } }](https://canvas.ou.edu/equation_images/%255Chat%257B%255Cbeta%257D_1%25
+ 3D%255Cfrac%257B%2520SS_%257BXY%257D%257D%257BSS_%257BXX%257D%2520%257D) \,
+  [LaTeX: V(\hat{\beta}_0)=\frac{\sigma^2}{n}\left (\frac{\sum x_i^2 }{SS_{X
+ X}}\right) ](https://canvas.ou.edu/equation_images/V%2528%255Chat%257B%255C
+ beta%257D_0%2529%253D%255Cfrac%257B%255Csigma%255E2%257D%257Bn%257D%255Clef
+ t%2520%2528%255Cfrac%257B%255Csum%2520x_i%255E2%2520%257D%257BSS_%257BXX%25
+ 7D%257D%255Cright%2529%2520)\n\n* See [beta0dist.pdf](https://canvas.ou.edu
+ /courses/44991/files/8398215/download?wrap=1) *\n\n* Show the estimators ar
+ e unbiased\n\n* Find their variances etc\n\n* t-tests:\n\n* All output shou
+ ld be understood.\n\n* Can you derive results by hand (P-values\, t values\
+ , cis)\n\n* Can you perform tests using the three methods:\n\n* CI\n\n* P v
+ alues\n\n* RAR\n\n* Null values and Alternate hypotheses.\n\n* What place d
+ oes an Alternate hypothesis play?\n\n* When do you need to do a var.test ?\
+ n\n* What is the NULL for a var.test?\n\n* Estimation:\n\n* Max Lik -- can 
+ you perform these calculations and proofs?\n\n* Bootstrap -- do you underst
+ and the code?\n\n* Interval estimation -- can you derive results that we di
+ d in class?\n\n* Can you show how to prove an estimator is unbiased?\n\n* W
+ hat about the good ole l = a_1Y_1 + ... + a_4Y_4 stuff? Can you do the calc
+ ulations now?\n\n* E(l)\n\n* V(l)\n\n* l ~ _(_\,_)\n\n* Regression:\n\n* Ca
+ n you prove results?\n\n* Can you understand the results?\n\n* Can you inte
+ rpret all output from the summary of an lm object?\n\n* Can you verify outp
+ ut by calculating it?\n\n* What are the assumptions?\n\n* mgf's:\n\n* can y
+ ou use them?\n\n* There are two ways you can use them:-\n\n* Make moments\n
+ \n* Identify distributions\n\n* Bootstrap and other R functions shown in th
+ e labs\n\n* Be able to describe what a line of code does.\n\n* Be able to r
+ ecognize options\, default values and ellipses\n\n* All relevant Labs -- es
+ pecially tests Max lik (lab 10) and labs 14-16 on regression
+DTEND:20180509T130000Z
+DTSTAMP:20180129T200700Z
+DTSTART:20180509T130000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:FINAL (MATH-4753-002) [MATH-4753-001-002-spring-18]
+UID:event-assignment-override-16734
+URL:http://canvas.ou.edu/calendar?include_contexts=course_44991&month=05&ye
+ ar=2018#assignment_627418
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><p><span style="font-size: 18pt\;"><strong>Final (This hel
+ p will be updated at will till exam)</strong></span></p>\n<p><span style="f
+ ont-size: 12pt\;">Will be comprehensive.</span></p>\n<p>Will major on Chapt
+ ers 6\,7\,8 and 10.</p>\n<p>A pdf from previous years <a class=" instructur
+ e_scribd_file instructure_file_link" title="Pointed Help for the FINAL-2017
+ .pdf" href="https://canvas.ou.edu/courses/44991/files/8398163/download?wrap
+ =1" target="" data-api-returntype="File" data-api-endpoint="https://canvas.
+ ou.edu/api/v1/courses/44991/files/8398163">Pointed Help for the FINAL-2017.
+ pdf</a></p>\n<p>The exam for FALL 2017 will take same format.</p>\n<p>Remem
+ ber that you are expected to prove that:</p>\n<p><img class="equation_image
+ " title="E(S^2)=\sigma^2 " src="https://canvas.ou.edu/equation_images/E%252
+ 8S%255E2%2529%253D%255Csigma%255E2%2520" alt="LaTeX: E(S^2)=\sigma^2 " data
+ -equation-content="E(S^2)=\sigma^2 " data-mathml='&lt\;math xmlns="http://w
+ ww.w3.org/1998/Math/MathML"&gt\;\n  &lt\;mi&gt\;E&lt\;/mi&gt\;\n  &lt\;mo s
+ tretchy="false"&gt\;(&lt\;/mo&gt\;\n  &lt\;msup&gt\;\n    &lt\;mi&gt\;S&lt\
+ ;/mi&gt\;\n    &lt\;mn&gt\;2&lt\;/mn&gt\;\n  &lt\;/msup&gt\;\n  &lt\;mo str
+ etchy="false"&gt\;)&lt\;/mo&gt\;\n  &lt\;mo&gt\;=&lt\;/mo&gt\;\n  &lt\;msup
+ &gt\;\n    &lt\;mi&gt\;&amp\;#x03C3\;<!-- σ -->&lt\;/mi&gt\;\n    &lt\;mn&g
+ t\;2&lt\;/mn&gt\;\n  &lt\;/msup&gt\;\n&lt\;/math&gt\;'></p>\n<p>The exam is
+  in two parts -- Part 1 -- MUST do all questions!  Part 2 -- do 4 of the 6.
+  There will be a total of 8 questions you MUST do to get full credit.</p>\n
+ <p><img src="https://canvas.ou.edu/courses/44991/files/8398128/preview" alt
+ ="questionheader-2017.png" width="2177" height="697" data-api-returntype="F
+ ile" data-api-endpoint="https://canvas.ou.edu/api/v1/courses/44991/files/83
+ 98128"></p>\n<p>Refer to the bullet points below for help and guidance - TH
+ IS WILL<span style="background-color: #ff0000\;"><strong> NOT</strong> </sp
+ an>BE EXHAUSTIVE so study everything you need to:</p>\n<ul>\n<li>Theory dev
+ eloped in class -- some of which is shown in chapters 10\,8\,7\,6\n<ul>\n<l
+ i>\n<img class="equation_image" title="\hat{\beta}_1=\frac{ SS_{XY}}{SS_{XX
+ } }" src="https://canvas.ou.edu/equation_images/%255Chat%257B%255Cbeta%257D
+ _1%253D%255Cfrac%257B%2520SS_%257BXY%257D%257D%257BSS_%257BXX%257D%2520%257
+ D" alt="LaTeX: \hat{\beta}_1=\frac{ SS_{XY}}{SS_{XX} }" data-equation-conte
+ nt="\hat{\beta}_1=\frac{ SS_{XY}}{SS_{XX} }" data-mathml='&lt\;math xmlns="
+ http://www.w3.org/1998/Math/MathML"&gt\;\n  &lt\;msub&gt\;\n    &lt\;mrow c
+ lass="MJX-TeXAtom-ORD"&gt\;\n      &lt\;mover&gt\;\n        &lt\;mi&gt\;&am
+ p\;#x03B2\;<!-- β -->&lt\;/mi&gt\;\n        &lt\;mo stretchy="false"&gt\;&a
+ mp\;#x005E\;<!-- ^ -->&lt\;/mo&gt\;\n      &lt\;/mover&gt\;\n    &lt\;/mrow
+ &gt\;\n    &lt\;mn&gt\;1&lt\;/mn&gt\;\n  &lt\;/msub&gt\;\n  &lt\;mo&gt\;=&l
+ t\;/mo&gt\;\n  &lt\;mfrac&gt\;\n    &lt\;mrow&gt\;\n      &lt\;mi&gt\;S&lt\
+ ;/mi&gt\;\n      &lt\;msub&gt\;\n        &lt\;mi&gt\;S&lt\;/mi&gt\;\n      
+   &lt\;mrow class="MJX-TeXAtom-ORD"&gt\;\n          &lt\;mi&gt\;X&lt\;/mi&g
+ t\;\n          &lt\;mi&gt\;Y&lt\;/mi&gt\;\n        &lt\;/mrow&gt\;\n      &
+ lt\;/msub&gt\;\n    &lt\;/mrow&gt\;\n    &lt\;mrow&gt\;\n      &lt\;mi&gt\;
+ S&lt\;/mi&gt\;\n      &lt\;msub&gt\;\n        &lt\;mi&gt\;S&lt\;/mi&gt\;\n 
+        &lt\;mrow class="MJX-TeXAtom-ORD"&gt\;\n          &lt\;mi&gt\;X&lt\;
+ /mi&gt\;\n          &lt\;mi&gt\;X&lt\;/mi&gt\;\n        &lt\;/mrow&gt\;\n  
+     &lt\;/msub&gt\;\n    &lt\;/mrow&gt\;\n  &lt\;/mfrac&gt\;\n&lt\;/math&gt
+ \;'> \, <img class="equation_image" title="V(\hat{\beta}_0)=\frac{\sigma^2}
+ {n}\left (\frac{\sum x_i^2 }{SS_{XX}}\right) " src="https://canvas.ou.edu/e
+ quation_images/V%2528%255Chat%257B%255Cbeta%257D_0%2529%253D%255Cfrac%257B%
+ 255Csigma%255E2%257D%257Bn%257D%255Cleft%2520%2528%255Cfrac%257B%255Csum%25
+ 20x_i%255E2%2520%257D%257BSS_%257BXX%257D%257D%255Cright%2529%2520" alt="La
+ TeX: V(\hat{\beta}_0)=\frac{\sigma^2}{n}\left (\frac{\sum x_i^2 }{SS_{XX}}\
+ right) " data-equation-content="V(\hat{\beta}_0)=\frac{\sigma^2}{n}\left (\
+ frac{\sum x_i^2 }{SS_{XX}}\right) " data-mathml='&lt\;math xmlns="http://ww
+ w.w3.org/1998/Math/MathML"&gt\;\n  &lt\;mi&gt\;V&lt\;/mi&gt\;\n  &lt\;mo st
+ retchy="false"&gt\;(&lt\;/mo&gt\;\n  &lt\;msub&gt\;\n    &lt\;mrow class="M
+ JX-TeXAtom-ORD"&gt\;\n      &lt\;mover&gt\;\n        &lt\;mi&gt\;&amp\;#x03
+ B2\;<!-- β -->&lt\;/mi&gt\;\n        &lt\;mo stretchy="false"&gt\;&amp\;#x0
+ 05E\;<!-- ^ -->&lt\;/mo&gt\;\n      &lt\;/mover&gt\;\n    &lt\;/mrow&gt\;\n
+     &lt\;mn&gt\;0&lt\;/mn&gt\;\n  &lt\;/msub&gt\;\n  &lt\;mo stretchy="fals
+ e"&gt\;)&lt\;/mo&gt\;\n  &lt\;mo&gt\;=&lt\;/mo&gt\;\n  &lt\;mfrac&gt\;\n   
+  &lt\;msup&gt\;\n      &lt\;mi&gt\;&amp\;#x03C3\;<!-- σ -->&lt\;/mi&gt\;\n 
+      &lt\;mn&gt\;2&lt\;/mn&gt\;\n    &lt\;/msup&gt\;\n    &lt\;mi&gt\;n&lt\
+ ;/mi&gt\;\n  &lt\;/mfrac&gt\;\n  &lt\;mrow&gt\;\n    &lt\;mo&gt\;(&lt\;/mo&
+ gt\;\n    &lt\;mfrac&gt\;\n      &lt\;mrow&gt\;\n        &lt\;mo&gt\;&amp\;
+ #x2211\;<!-- ∑ -->&lt\;/mo&gt\;\n        &lt\;msubsup&gt\;\n          &lt\;
+ mi&gt\;x&lt\;/mi&gt\;\n          &lt\;mi&gt\;i&lt\;/mi&gt\;\n          &lt\
+ ;mn&gt\;2&lt\;/mn&gt\;\n        &lt\;/msubsup&gt\;\n      &lt\;/mrow&gt\;\n
+       &lt\;mrow&gt\;\n        &lt\;mi&gt\;S&lt\;/mi&gt\;\n        &lt\;msub
+ &gt\;\n          &lt\;mi&gt\;S&lt\;/mi&gt\;\n          &lt\;mrow class="MJX
+ -TeXAtom-ORD"&gt\;\n            &lt\;mi&gt\;X&lt\;/mi&gt\;\n            &lt
+ \;mi&gt\;X&lt\;/mi&gt\;\n          &lt\;/mrow&gt\;\n        &lt\;/msub&gt\;
+ \n      &lt\;/mrow&gt\;\n    &lt\;/mfrac&gt\;\n    &lt\;mo&gt\;)&lt\;/mo&gt
+ \;\n  &lt\;/mrow&gt\;\n&lt\;/math&gt\;'>\n</li>\n<li>See <a class=" instruc
+ ture_scribd_file instructure_file_link" title="beta0dist.pdf" href="https:/
+ /canvas.ou.edu/courses/44991/files/8398215/download?wrap=1" target="" data-
+ api-returntype="File" data-api-endpoint="https://canvas.ou.edu/api/v1/cours
+ es/44991/files/8398215">beta0dist.pdf</a> *</li>\n<li>Show the estimators a
+ re unbiased</li>\n<li>Find their variances etc</li>\n</ul>\n</li>\n<li>t-te
+ sts:\n<ul>\n<li>All output should be understood.</li>\n<li>Can you derive r
+ esults by hand (P-values\, t values\, cis)</li>\n<li>Can you perform tests 
+ using the three methods:\n<ul>\n<li>CI</li>\n<li>P values</li>\n<li>RAR</li
+ >\n</ul>\n</li>\n<li>Null values and Alternate hypotheses.</li>\n<li>What p
+ lace does an Alternate hypothesis play?</li>\n<li>When do you need to do a 
+ var.test ?</li>\n<li>What is the NULL for a var.test?</li>\n</ul>\n</li>\n<
+ li>Estimation:\n<ul>\n<li>Max Lik -- can you perform these calculations and
+  proofs?</li>\n<li>Bootstrap -- do you understand the code?</li>\n<li>Inter
+ val estimation -- can you derive results that we did in class?</li>\n<li>Ca
+ n you show how to prove an estimator is unbiased?</li>\n</ul>\n</li>\n<li>W
+ hat about the good ole l = a_1Y_1 + ... + a_4Y_4 stuff? Can you do the calc
+ ulations now?\n<ul>\n<li>E(l)</li>\n<li>V(l)</li>\n<li>l ~ _(_\,_)</li>\n</
+ ul>\n</li>\n<li>Regression:\n<ul>\n<li>Can you prove results?</li>\n<li>Can
+  you understand the results?</li>\n<li>Can you interpret all output from th
+ e summary of an lm object?</li>\n<li>Can you verify output by calculating i
+ t?</li>\n<li>What are the assumptions?</li>\n</ul>\n</li>\n<li>mgf's:\n<ul>
+ \n<li>can you use them?</li>\n<li>There are two ways you can use them:-\n<u
+ l>\n<li>Make moments</li>\n<li>Identify distributions</li>\n</ul>\n</li>\n<
+ /ul>\n</li>\n<li>Bootstrap and other R functions shown in the labs\n<ul>\n<
+ li>Be able to describe what a line of code does.</li>\n<li>Be able to recog
+ nize options\, default values and ellipses</li>\n</ul>\n</li>\n<li>All rele
+ vant Labs -- especially tests Max lik (lab 10) and labs 14-16 on regression
+ </li>\n</ul><script src="https://instructure-uploads.s3.amazonaws.com/accou
+ nt_88080000000000001/attachments/1368591/canvas_global_app.js?AWSAccessKeyI
+ d=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Signature=BBbTvxxJI43Rw
+ X%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-Control%3Amax-age%3D4
+ 73364000.0%2C%20public&amp\;response-expires=473364000.0"></script>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:------------\nInstructions\n------------\n\nWrite your autobiog
+ raphy in Latin in no fewer than 300 and no more than 500 words. Your autobi
+ ography may be true\, embellished\, or completely fictitious. Whatever you 
+ choose to write\, be sure to use good\, idiomatic Latin.\n\nAlthough I want
+  to give you the freedom to express yourself\, I must also be able to asses
+ s the degree to which you have mastered the various constructions that you 
+ will have learned by the end of the semester. For that reason\, you must de
+ monstrate your competence by including certain constructions in your autobi
+ ography. The more of them you include\, the higher your score will be. Plea
+ se see the [grading sheet and rubric](https://canvas.ou.edu/courses/52647/f
+ iles/9238562/download) for more information.\n\nHere are the constructions:
+ \n\nClauses\n-------\n\n* Causal clause\n\n* Clause after a verb of fearing
+ \n\n* Concessive clause\n\n* Conditional clause\n\n* Consecutive clause\n\n
+ * Final clause\n\n* Indirect question\n\n* Relative clause\n\n* Temporal cl
+ ause\n\nCase Uses\n---------\n\n* Ablative absolute\n\n* Ablative of accomp
+ animent\n\n* Ablative of degree of difference\n\n* Ablative of manner\n\n* 
+ Ablative of means/instrument\n\n* Ablative of place where or whence\n\n* Ab
+ lative of time (point or within)\n\n* Accusative of duration of time\n\n* D
+ ative of agent\n\n* Dative of the possessor\n\n* Genitive—objective\n\n* Ge
+ nitive—subjective\n\n* Genitive of quality\n\n* Genitive of the whole (part
+ itive)\n\n* Locative\n\n* Vocative\n\nInfinitives\n-----------\n\n* Complem
+ entary\n\n* Indirect statement\n\n* Infinitive as noun\n\nSpecial Construct
+ ions\n---------------------\n\n* Clause introduced by quin\n\n* Clause intr
+ oduced by quominus\n\n* Double dative\n\n* Gerund or gerundive\n\n* Imperso
+ nal verb\n\n* Supine
+DTEND:20180509T150000Z
+DTSTAMP:20180202T173900Z
+DTSTART:20180509T150000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Exam [LAT-3313-001]
+UID:event-assignment-679490
+URL:http://canvas.ou.edu/calendar?include_contexts=course_52647&month=05&ye
+ ar=2018#assignment_679490
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_88080000000000001/attachments/1368592/c
+ anvas_global_app.css?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=19454
+ 34298&amp\;Signature=qP0J%2BlzlOnUqaYYqgkxl9iWDtxw%3D&amp\;response-cache-c
+ ontrol=Cache-Control%3Amax-age%3D473364000.0%2C%20public&amp\;response-expi
+ res=473364000.0"><h2>Instructions</h2>\n<p>Write your autobiography in Lati
+ n in no fewer than 300 and no more than 500 words. Your autobiography may b
+ e true\, embellished\, or completely fictitious. Whatever you choose to wri
+ te\, be sure to use good\, idiomatic Latin.</p>\n<p>Although I want to give
+  you the freedom to express yourself\, I must also be able to assess the de
+ gree to which you have mastered the various constructions that you will hav
+ e learned by the end of the semester. For that reason\, you must demonstrat
+ e your competence by including certain constructions in your autobiography.
+  The more of them you include\, the higher your score will be. Please see t
+ he <a href="https://canvas.ou.edu/courses/52647/files/9238562/download" dat
+ a-api-endpoint="https://canvas.ou.edu/api/v1/courses/52647/files/9238562" d
+ ata-api-returntype="File">grading sheet and rubric</a> for more information
+ .</p>\n<p>Here are the constructions:</p>\n<h3>Clauses</h3>\n<ul>\n<li>Caus
+ al clause</li>\n<li>Clause after a verb of fearing</li>\n<li>Concessive cla
+ use</li>\n<li>Conditional clause</li>\n<li>Consecutive clause</li>\n<li>Fin
+ al clause</li>\n<li>Indirect question</li>\n<li>Relative clause</li>\n<li>T
+ emporal clause</li>\n</ul>\n<h3>Case Uses</h3>\n<ul>\n<li>Ablative absolute
+ </li>\n<li>Ablative of accompaniment</li>\n<li>Ablative of degree of differ
+ ence</li>\n<li>Ablative of manner</li>\n<li>Ablative of means/instrument</l
+ i>\n<li>Ablative of place where or whence</li>\n<li>Ablative of time (point
+  or within)</li>\n<li>Accusative of duration of time</li>\n<li>Dative of ag
+ ent</li>\n<li>Dative of the possessor</li>\n<li>Genitive—objective</li>\n<l
+ i>Genitive—subjective</li>\n<li>Genitive of quality</li>\n<li>Genitive of t
+ he whole (partitive)</li>\n<li>Locative</li>\n<li>Vocative</li>\n</ul>\n<h3
+ >Infinitives</h3>\n<ul>\n<li>Complementary</li>\n<li>Indirect statement</li
+ >\n<li>Infinitive as noun</li>\n</ul>\n<h3>Special Constructions</h3>\n<ul>
+ \n<li>Clause introduced by quin</li>\n<li>Clause introduced by quominus</li
+ >\n<li>Double dative</li>\n<li>Gerund or gerundive</li>\n<li>Impersonal ver
+ b</li>\n<li>Supine</li>\n</ul><script src="https://instructure-uploads.s3.a
+ mazonaws.com/account_88080000000000001/attachments/1368591/canvas_global_ap
+ p.js?AWSAccessKeyId=AKIAJFNFXH2V2O7RPCAA&amp\;Expires=1945434298&amp\;Signa
+ ture=BBbTvxxJI43RwX%2BlrgH8Jd3KKos%3D&amp\;response-cache-control=Cache-Con
+ trol%3Amax-age%3D473364000.0%2C%20public&amp\;response-expires=473364000.0"
+ ></script>
+END:VEVENT
+END:VCALENDAR
